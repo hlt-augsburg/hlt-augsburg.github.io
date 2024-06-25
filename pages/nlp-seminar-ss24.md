@@ -19,7 +19,7 @@ permalink: /nlp-seminar-ss24
     <br/><br/>
 
     <b>June 5, 2024</b><br/>
-    Zhou Wei: <i><a href="https://arxiv.org/abs/2404.18585">FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering</a></i>. Accepted to NAACL 2024.</a>
+    Zhou Wei: <i><a href="https://arxiv.org/abs/2404.18585">FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering</a></i> (accepted to NAACL 2024)</a>
     <br/><br/>
 
     <b>June 12, 2024</b><br/>
@@ -29,12 +29,12 @@ permalink: /nlp-seminar-ss24
 
     <b>June 26, 2024</b><br/>
     Lukas Kleybolte: PhD research updates<br/>
-    Zahra Kolagar: PhD research updates
+    Zahra Kolagar: <i>Assessing Open Source LLMs for Educational Summarization: Introducing a New Benchmark Dataset</i> (PhD research updates)
     <br/><br/>
 
     <b>July 3, 2024</b><br/>
     Daniel Neu: Bachelor thesis interim presentation<br/>
-    Lukas Christ: <i>Modeling Emotional Trajectories in Written Stories Utilizing Transformers and Weakly-Supervised Learning</i>. Accepted to Findings of ACL 2024.
+    Lukas Christ: <i>Modeling Emotional Trajectories in Written Stories Utilizing Transformers and Weakly-Supervised Learning</i> (accepted to Findings of ACL 2024)
     <br/><br/>
 
     <b>July 10, 2024</b><br/>
