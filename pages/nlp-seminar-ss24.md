@@ -28,7 +28,7 @@ permalink: /nlp-seminar-ss24
     <br/><br/>
 
     <b>June 26, 2024</b><br/>
-    Lukas Kleybolte: PhD research updates<br/>
+    Lukas Kleybolte: <i>Knowledge Base Question Answering in Specialized Domains with Open-Source Models</i> (PhD research updates)<br/>
     Zahra Kolagar: <i>Assessing Open Source LLMs for Educational Summarization: Introducing a New Benchmark Dataset</i> (PhD research updates)
     <br/><br/>
 
