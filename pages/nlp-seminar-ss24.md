@@ -19,7 +19,7 @@ permalink: /nlp-seminar-ss24
     <br/><br/>
 
     <b>June 5, 2024</b><br/>
-    Zhou Wei: <i><a href="https://arxiv.org/abs/2404.18585">FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering</a></i> (accepted to NAACL 2024)</a>
+    Zhou Wei: <i><a href="https://arxiv.org/abs/2404.18585">FREB-TQA: A Fine-Grained Robustness Evaluation Benchmark for Table Question Answering</a></i> (accepted to NAACL 2024)
     <br/><br/>
 
     <b>June 12, 2024</b><br/>
