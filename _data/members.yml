@@ -109,16 +109,6 @@
     affiliation: 'Technische Hochschule Augsburg'
     instituteurl: 'https://www.tha.de/'
 
--
-    name: 'Steffen Kleinle'
-    email: 'tba'
-    position: 'Master Student'
-    pic: "steffen"
-    website: ''
-    websiteurl: ''
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
-
 
 -
     name: 'Sujin Park'
@@ -131,3 +121,12 @@
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 
+-
+    name: 'Jenny Maria Felser'
+    email: ''
+    position: 'PhD student'
+    pic: "jenny"
+    website: 'Personal Website'
+    websiteurl: 'https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/felser-jenny/'
+    affiliation: 'Hochschule Mittweida <br/> Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
