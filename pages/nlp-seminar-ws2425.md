@@ -34,12 +34,12 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 13, 2024</b><br/>
-    <i>NLU slot: PhD updates (Timo, Valentin)</i>
+    <i>NLU slot: PhD updates (Timo, Valentin, Tobias)</i>
     <br/><br/>
 
     <b>November 20, 2024</b><br/>
     <!-- Buß- und Bettag, not a holiday in Bavaria though, pick a non-mandatory topic -->
-    <i>Reading Group: Zahra, Wei, Valentin, Mahmud, Lukas</i>
+    <i>Reading Group: Zahra, Wei, Valentin, Mahmud, Lukas, Tobias</i>
     <br/><br/>
 
     <b>November 27, 2024</b><br/>
@@ -56,7 +56,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>December 18, 2024</b><br/>
-    <i>NLU slot: PhD updates (Wei, Jenny)</i>
+    <i>NLU slot: PhD updates (Jenny, Wei, Lukas)</i>
     <br/><br/>
     
     <b>January 8, 2025</b><br/>
