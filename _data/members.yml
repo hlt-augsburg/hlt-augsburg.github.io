@@ -6,7 +6,7 @@
     website: 'Personal Website'
     websiteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/team/prof-dr-chiarcos/'
     affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/en/fakultaet/fai/informatik'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
 
 -
     name: 'Alessandra Zarcone'
@@ -31,12 +31,13 @@
 -
     name: 'Jakob Prange'
     email: 'firstname dot lastname at uni minus a dot de'
-    position: 'PostDoc / Akademischer Rat'
+    position: 'PostDoc'
     pic: "jakob"
     website: 'Personal Website'
     websiteurl: 'https://jakpra.github.io/'
     affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
 
 -
     name: 'Veronika Gacia'
@@ -47,6 +48,27 @@
     websiteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/germanistik/deutsche-sprachwissenschaft/team/veronika-gacia/'
     affiliation: 'German Linguistics <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/germanistik/deutsche-sprachwissenschaft/team/veronika-gacia/'
+
+
+-
+    name: 'Christian Fäth'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'PhD student'
+    pic: "tba"
+    website: ''
+    websiteurl: ''
+    affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
+
+-
+    name: 'MD Mahmud Uz Zaman'
+    email: 'md dot zaman at uni minus a dot de'
+    position: 'PhD student'
+    pic: "tba"
+    website: ''
+    websiteurl: ''
+    affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
 
 
 -
@@ -93,7 +115,7 @@
     name: 'Zahra Kolagar'
     email: 'tba'
     position: 'PhD Student'
-    pic: ""
+    pic: "tba"
     website: ''
     websiteurl: ''
     affiliation: 'Frauhnhofer IIS, Erlangen'
@@ -109,6 +131,17 @@
     affiliation: 'Technische Hochschule Augsburg'
     instituteurl: 'https://www.tha.de/'
 
+-
+    name: 'Jenny Maria Felser'
+    email: ''
+    position: 'PhD student'
+    pic: "jenny"
+    website: 'Personal Website'
+    websiteurl: 'https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/felser-jenny/'
+    affiliation: 'Hochschule Mittweida <br/> Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
+
 
 -
     name: 'Sujin Park'
@@ -120,13 +153,13 @@
     affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
-
 -
-    name: 'Jenny Maria Felser'
-    email: ''
-    position: 'PhD student'
-    pic: "jenny"
-    website: 'Personal Website'
-    websiteurl: 'https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/felser-jenny/'
-    affiliation: 'Hochschule Mittweida <br/> Natural Language Understanding Group <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+    name: 'Stefan Radle'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'Student Assistant'
+    pic: "tba"
+    website: ''
+    websiteurl: ''
+    affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
+
