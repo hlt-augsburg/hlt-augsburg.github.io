@@ -34,7 +34,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 13, 2024</b><br/>
-    <i>NLU slot: PhD updates (Timo, Valentin, Tobias)</i>
+    <i>NLU slot: PhD updates (Valentin, Tobias)</i>
     <br/><br/>
 
     <b>November 20, 2024</b><br/>
@@ -56,7 +56,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>December 18, 2024</b><br/>
-    <i>NLU slot: PhD updates (Jenny, Wei, Lukas)</i>
+    <i>NLU slot: PhD updates (Jenny, Wei, Timo)</i>
     <br/><br/>
     
     <b>January 8, 2025</b><br/>
