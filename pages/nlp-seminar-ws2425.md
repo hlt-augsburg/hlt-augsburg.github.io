@@ -14,7 +14,8 @@ permalink: /nlp-seminar-ws2425
     <b>Contact (S24): Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b><br/><br/>
 
     <b>October 16, 2024</b><br/>
-    <i>Reading Group Paper Flashlights: Anne, Christian C., Alessandra, Viviana, Veronika</i>
+    <!-- Alessandra can't join -->
+    <i>Reading Group Paper Flashlights: Anne, Christian C., Viviana, Veronika</i>
     <br/><br/>
 
     <b>October 23, 2024</b><br/>
@@ -77,7 +78,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>February 05, 2025</b><br/>
-    <i>THA slot</i>
+    <i>THA slot. Planned (to be confirmed): Presentation by M. Müller (Master thesis), and P. Gaag (Master thesis)</i>
     <br/><br/>
 
 
