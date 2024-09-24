@@ -44,7 +44,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 27, 2024</b><br/>
-    <i>THA slot</i>
+    <i>THA slot: PhD update (Lukas), interim presentation (P. Gaag)</i>
     <br/><br/>
 
     <b>December 04, 2024</b><br/>
@@ -70,7 +70,7 @@ permalink: /nlp-seminar-ws2425
 
 
     <b>January 22, 2025</b><br/>
-    <i>THA slot</i>
+    <i>THA slot: guest from Fraunhofer (to be confirmed)</i>
     <br/><br/>
 
     <b>January 29, 2025</b><br/>
