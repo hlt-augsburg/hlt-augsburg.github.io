@@ -70,7 +70,7 @@ permalink: /nlp-seminar-ws2425
 
 
     <b>January 22, 2025</b><br/>
-    <i>THA slot: guest from Fraunhofer (to be confirmed)</i>
+    <i>THA slot: guest talk (zoom) on - eye-tracking and pupil dilation by Asma Shaikh, Fraunhofer IIS</i>
     <br/><br/>
 
     <b>January 29, 2025</b><br/>
