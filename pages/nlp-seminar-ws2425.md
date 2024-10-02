@@ -44,7 +44,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 27, 2024</b><br/>
-    <i>THA slot</i>
+    <i>THA slot: PhD update (Lukas), interim presentation (P. Gaag)</i>
     <br/><br/>
 
     <b>December 04, 2024</b><br/>
@@ -53,7 +53,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>December 11, 2024</b><br/>
-    <i>THA slot</i>
+    <i>THA slot: S. Rudics (interim presentation, Master thesis)</i>
     <br/><br/>
 
     <b>December 18, 2024</b><br/>
@@ -70,7 +70,7 @@ permalink: /nlp-seminar-ws2425
 
 
     <b>January 22, 2025</b><br/>
-    <i>THA slot</i>
+    <i>THA slot: guest talk (zoom) on - eye-tracking and pupil dilation by Asma Shaikh, Fraunhofer IIS</i>
     <br/><br/>
 
     <b>January 29, 2025</b><br/>
@@ -78,7 +78,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>February 05, 2025</b><br/>
-    <i>THA slot. Planned (to be confirmed): Presentation by M. Müller (Master thesis), and P. Gaag (Master thesis)</i>
+    <i>THA slot. Presentation by M. Müller (Master thesis), P. Gaag (Master thesis), S. Rudics (Master thesis)</i>
     <br/><br/>
 
 
