@@ -9,7 +9,7 @@ permalink: /nlp-seminar-ws2425
     <h3>Winter Semester 2024/25</h3>
 
     Wednesdays, 10am<br/>
-    N1056 and Zoom<br/><br/>
+    N1033 and Zoom<br/><br/>
 
     <b>Contact (S24): Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b><br/><br/>
 
@@ -21,7 +21,7 @@ permalink: /nlp-seminar-ws2425
     <b>October 23, 2024</b><br/>
     <!-- Alessandra can't join -->
     <i>NLU slot: final internship presentation (Sujin) - 30 minutes</i><br/>
-    <i>Reading Group Paper Flashlights:  Timo, Jakob, Christian F., Jenny</i>
+    <i>External speaker: Jing Chen</i>
     
     <br/><br/>
 

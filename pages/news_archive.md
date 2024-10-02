@@ -11,6 +11,11 @@ permalink: /news-archive
             </div>
         </div>
         <ul>
+         <li>February 21, 2024 -- Our paper <a href="https://aclanthology.org/2024.lrec-main.103/">AnnoCTR: A Dataset for Detecting and Linking Entities, Tactics, and Techniques in Cyber Threat Reports</a> has been accepted to <a href="https://lrec-coling-2024.org/">LREC/Coling</a>, the 2024 Joint International Conference on Computational Linguistics, Language Resources, and Evaluation, which will take place in May in Torino, Italy.
+    In the paper, which is a collaboration with Bosch and the MPI of Informatics in Saarbrücken, we present a new dataset of classifying cyber attacks and techniques in reports. Also, the paper <a href="https://aclanthology.org/2024.lrec-main.600/">Explaining Pre-Trained Language Models with Attribution Scores: An Analysis in Low-Resource Settings</a> by our Phd student Wei Zhou, together with Bosch and Univerisity of Stuttgart,
+    has been accepted at LREC-COLING 2024.</li>
+    <li>February 8, 2024 -- Annemarie Friedrich has been elected as <strong>President of the German Society for Computational Linguistics and Language Technology</strong> (<a href="">GSCL</a>).</li>
+   <li>January 24, 2024 -- Our paper <strong>Aligning Uncertainty: Leveraging LLMs to Analyze Uncertainty Transfer in Text Summarization</strong> has been accepted to the <a href="https://uncertainlp.github.io/" target="_blank">UncertaiNLP Workshop</a> at EACL 2024. Congrats, Zahra!</li>
         <li>January 17, 2024 -- Annemarie Friedrich is giving a lecture on Ethics and NLP in the Ringvorlesung <a href="https://www.uni-augsburg.de/de/fakultaet/fai/informatik/studium/ringvorlesung-ki-ethik/">Alexa, ChatGPT & Co: Wie haltet ihr es mit der Ethik? - Eine interdisziplinäre Perspektive auf KI</a>. </li>
         <li>November 13, 2023 -- PhD student Valentin Knappich has participated in the PLABA shared task on simplifying medical text and achieved excellent performance scores both in the automatic and the manual evaluation. Congrats, Valentin! Read more <a href="https://arxiv.org/abs/2311.01907">here</a>.</li>
    <li>November 8, 2023 -- Alessandra Zarcone is looking for a PhD student for the CHIASM Project at the TH Augsburg, <a href="https://karriere.hs-augsburg.de/Wissenschaftlicher-Mitarbeiterin-mwd-mit-Promotionsziel-de-j786.html">see the call here</a>.</li>
