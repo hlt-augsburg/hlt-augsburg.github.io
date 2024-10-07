@@ -9,7 +9,7 @@ permalink: /nlp-seminar-ws2425
     <h3>Winter Semester 2024/25</h3>
 
     Wednesdays, 10am<br/>
-    N1033 and Zoom<br/><br/>
+    N1033 (Exception: THA slots, at <a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html" target="_blank">TH Augsburg, Campus am Roten Tor, Buildign J</a>, Room J1.19) and Zoom<br/><br/>
 
     <b>Contact (S24): Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b><br/><br/>
 
@@ -44,7 +44,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 27, 2024</b><br/>
-    <i>THA slot: PhD update (Lukas), interim presentation (P. Gaag)</i>
+    <i>THA slot: PhD update (Lukas) + one more THA_atlas PhD student</i>
     <br/><br/>
 
     <b>December 04, 2024</b><br/>
@@ -53,7 +53,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>December 11, 2024</b><br/>
-    <i>THA slot: S. Rudics (interim presentation, Master thesis)</i>
+    <i>THA slot: S. Rudics (interim presentation, Master thesis), P. Gaag (interim presentation, Master thesis)</i>
     <br/><br/>
 
     <b>December 18, 2024</b><br/>
