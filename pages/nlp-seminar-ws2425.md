@@ -15,7 +15,7 @@ permalink: /nlp-seminar-ws2425
 
     <b>October 16, 2024</b><br/>
     <!-- Alessandra can't join -->
-    <i>Reading Group Paper Flashlights: Anne, Christian C., Viviana, Veronika</i>
+    <i>PhD Midterm Presentations: Timo and Valentin (1pm, MRM)</i>
     <br/><br/>
 
     <b>October 23, 2024</b><br/>
