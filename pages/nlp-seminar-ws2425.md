@@ -21,7 +21,7 @@ permalink: /nlp-seminar-ws2425
     <b>October 23, 2024</b><br/>
     <!-- Alessandra can't join -->
     <i>NLU slot: final internship presentation (Sujin) - 30 minutes</i><br/>
-    <i>External speaker: Jing Chen</i>
+    <i>EMNLP Dry Run: Timo Schrader (<a href="https://arxiv.org/abs/2410.10449">QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios</a>)</i>
     
     <br/><br/>
 
