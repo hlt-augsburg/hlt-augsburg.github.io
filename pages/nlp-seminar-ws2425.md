@@ -57,7 +57,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>December 18, 2024</b><br/>
-    <i>NLU slot: PhD updates (Jenny, Wei, Timo)</i>
+    <i>NLU slot: PhD updates (dry run for mid-PhD presentations) (Jenny, Wei)</i>
     <br/><br/>
     
     <b>January 8, 2025</b><br/>
