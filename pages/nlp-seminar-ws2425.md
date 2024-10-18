@@ -26,8 +26,9 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>October 30, 2024</b><br/>
-     <!-- Anne can't join -->
-     <i>AColi slot</i>
+     <!-- Anne and Christian can't join -->
+     <i>Leo Pöller: Corporate Climate Disclosures: Leveraging Natural Language Processing to Assess Corporate Environmental Agendas (Bachelor thesis interim presentations)</br>
+     Jakob Prange: Preparations for Climate-NLP related Shared Task</i>
     <br/><br/>
 
     <b>November 06, 2024</b><br/>
