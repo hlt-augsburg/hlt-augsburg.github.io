@@ -9,34 +9,40 @@ permalink: /nlp-seminar-ws2425
     <h3>Winter Semester 2024/25</h3>
 
     Wednesdays, 10am<br/>
-    N1033 (Exception: THA slots, at <a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html" target="_blank">TH Augsburg, Campus am Roten Tor, Buildign J</a>, Room J1.19) and Zoom<br/><br/>
+    <b>NLU slots</b>: <a href="https://infokompetenz.bibliothek.uni-augsburg.de/Schule/Lageplan_UB.PNG" target="_blank">U Augsburg, Main Campus, Building N</a>, Room N1033 and Zoom<br/>
+    <b>ACoLi slots</b>: <a href="https://infokompetenz.bibliothek.uni-augsburg.de/Schule/Lageplan_UB.PNG" target="_blank">U Augsburg, Main Campus, Building N</a>, Room N1033 and Zoom<br/>
+    <b>THA slots</b>: <a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html" target="_blank">TH Augsburg, Campus am Roten Tor, Buildign J</a>, Room J1.19<br/><br/>
 
-    <b>Contact (S24): Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b><br/><br/>
+    <b>Contact (WS24/25): Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b><br/><br/>
 
     <b>October 16, 2024</b><br/>
-    <!-- Alessandra can't join -->
-    <i>PhD Midterm Presentations: Timo and Valentin (1pm, MRM)</i>
+    <!-- Alessandra and Christian can't join -->
+    <b>extra slot: 1pm, MRM</b>
+    <i>PhD Midterm Presentations: Timo and Valentin</i>
     <br/><br/>
 
     <b>October 23, 2024</b><br/>
     <!-- Alessandra can't join -->
-    <i>NLU slot: final internship presentation (Sujin) - 30 minutes</i><br/>
-    <i>EMNLP Dry Run: Timo Schrader (<a href="https://arxiv.org/abs/2410.10449">QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios</a>)</i>
-    
+    <b>NLU slot:</b><br/>
+    <i>Sujin: final internship presentation - 30 minutes</i><br/>
+    <i>Timo Schrader: <a href="https://arxiv.org/abs/2410.10449">QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios</a> (EMNLP Dry Run)</i>
     <br/><br/>
 
     <b>October 30, 2024</b><br/>
      <!-- Anne and Christian can't join -->
+     <b>NLU slot:</b><br/>
      <i>Leo Pöller: Corporate Climate Disclosures: Leveraging Natural Language Processing to Assess Corporate Environmental Agendas (Bachelor thesis interim presentations)</br>
      Jakob Prange: Preparations for Climate-NLP related Shared Task</i>
     <br/><br/>
 
     <b>November 06, 2024</b><br/>
-    <i>NLU slot: Bachelor thesis final presentations: Neu, Jaumann, Niemeier</i>
+    <b>NLU slot:</b><br/>
+    <i>Neu, Jaumann, Niemeier: Bachelor thesis final presentations</i>
     <br/><br/>
 
     <b>November 13, 2024</b><br/>
-    <i>NLU slot: PhD updates (Valentin, Tobias)</i>
+    <b>NLU slot:<b><br/>
+    <i>Valentin, Tobias: PhD updates</i>
     <br/><br/>
 
     <b>November 20, 2024</b><br/>
@@ -45,41 +51,58 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 27, 2024</b><br/>
-    <i>THA slot: PhD update (Lukas) + one more THA_atlas PhD student</i>
+    <b>THA slot</b><br/>
+    <i>Lukas: PhD update (Lukas)</i><br/>
+    <i>plus one more THA_atlas PhD student</i>
     <br/><br/>
 
     <b>December 04, 2024</b><br/>
       <!-- Alessandra probably can't join -->
-   <i>AColi slot</i>
+    <b>ACoLi slot</b><br/>
+       <i>tba</i>
     <br/><br/>
 
     <b>December 11, 2024</b><br/>
-    <i>THA slot: S. Rudics (interim presentation, Master thesis), P. Gaag (interim presentation, Master thesis)</i>
+    <b>THA slot:<b><br/>
+    <i>S. Rudics (interim presentation, Master thesis)</i><br/>
+    <i>P. Gaag (interim presentation, Master thesis)</i>
     <br/><br/>
 
     <b>December 18, 2024</b><br/>
-    <i>NLU slot: PhD updates (dry run for mid-PhD presentations) (Jenny, Wei)</i>
+    <b>NLU slot:</b><br/>
+    <i>Jenny: PhD updates (dry run for mid-PhD presentations)</i><br/>
+    <i>Wei: PhD updates (dry run for mid-PhD presentations)</i>
     <br/><br/>
     
     <b>January 8, 2025</b><br/>
-   <i>AColi slot</i>
+    <b>ACoLi slot</b><br/>
+    <i>tba</i>
     <br/><br/>
 
     <b>January 15, 2025</b><br/>
-   <i>NLU slot: research updates (Jakob, Veronika)</i>
+    <b>NLU slot</b><br/>
+    <i>Jakob: research updates</i></br>
+    <i>Veronika: research updates</i>
+        <!-- is that Veronika Gacia?, should be labelled differently, then -->
     <br/><br/>
 
 
     <b>January 22, 2025</b><br/>
-    <i>THA slot: guest talk (zoom) on - eye-tracking and pupil dilation by Asma Shaikh, Fraunhofer IIS</i>
+    <b>THA slot:</b><br/>
+    <i>Asma Shaikh (Fraunhofer IIS), eye-tracking and pupil dilation</i> (guest talk, zoom)</i>
+        <!-- does that mean zoom only? -->
     <br/><br/>
 
     <b>January 29, 2025</b><br/>
-   <i>AColi slot</i>
+   <b>AColi slot:</b><br/>
+   <i>tba</i>
     <br/><br/>
 
     <b>February 05, 2025</b><br/>
-    <i>THA slot. Presentation by M. Müller (Master thesis), P. Gaag (Master thesis), S. Rudics (Master thesis)</i>
+    <b>THA slot:</b><br/>
+    <i>M. Müller (Master thesis)</i><br/>
+    <i>P. Gaag (Master thesis)</i><br/>
+    <i>S. Rudics (Master thesis)</i>
     <br/><br/>
 
 
