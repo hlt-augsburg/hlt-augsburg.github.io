@@ -39,6 +39,10 @@ permalink: /nlp-seminar-ws2425
     <i>Valentin, Tobias: PhD updates</i>
     <br/><br/>
 
+    <b>November 13, 2024</b> [extra ACoLi slot, 17:30-19:00, UniA, room D-4056]<br/>
+    Aleksandra Tomaszewska (Polish Academy of Sciences) and Maria da Purificação Moura Silvano (University of Porto): <i>Multilingual Discourse Relations Annotation in English, Polish, and Portuguese</i> (guest talk at the <a href="https://www.uni-augsburg.de/de/fakultaet/philhist/studium/vortragsreihen/interdisziplinares-linguistisches-kolloquium-augsburg/" target="_main">Interdisziplinäres Linguistisches Kolloquium Augsburg</a>)
+    <br/><br/>
+
     <b>November 20, 2024</b> [all, UniA]<br/>
     <!-- Buß- und Bettag, not a holiday in Bavaria though, pick a non-mandatory topic -->
     <i>Reading Group: Zahra, Wei, Valentin, Mahmud, Lukas, Tobias</i>
