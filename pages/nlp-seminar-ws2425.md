@@ -11,7 +11,7 @@ permalink: /nlp-seminar-ws2425
     Wednesdays, 10am<br/>
     <b>NLU slots</b>: <a href="https://infokompetenz.bibliothek.uni-augsburg.de/Schule/Lageplan_UB.PNG" target="_blank">U Augsburg, Main Campus, Building N</a>, Room N1033 and Zoom<br/>
     <b>ACoLi slots</b>: <a href="https://infokompetenz.bibliothek.uni-augsburg.de/Schule/Lageplan_UB.PNG" target="_blank">U Augsburg, Main Campus, Building N</a>, Room N1033 and Zoom<br/>
-    <b>THA slots</b>: <a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html" target="_blank">TH Augsburg, Campus am Roten Tor, Buildign J</a>, Room J1.19<br/><br/>
+    <b>THA slots</b>: <a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html" target="_blank">TH Augsburg, Campus am Roten Tor, Building J</a>, Room J1.19 and Zoom<br/><br/>
 
     <b>Contact (WS24/25): Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b><br/><br/>
 
