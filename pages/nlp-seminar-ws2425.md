@@ -9,38 +9,37 @@ permalink: /nlp-seminar-ws2425
     <h3>Winter Semester 2024/25</h3>
 
     Wednesdays, 10am<br/>
-    <b>NLU slots</b>: <a href="https://infokompetenz.bibliothek.uni-augsburg.de/Schule/Lageplan_UB.PNG" target="_blank">U Augsburg, Main Campus, Building N</a>, Room N1033 and Zoom<br/>
-    <b>ACoLi slots</b>: <a href="https://infokompetenz.bibliothek.uni-augsburg.de/Schule/Lageplan_UB.PNG" target="_blank">U Augsburg, Main Campus, Building N</a>, Room N1033 and Zoom<br/>
+    <b>UniA</b> (NLP/ACoLi slots): <a href="https://infokompetenz.bibliothek.uni-augsburg.de/Schule/Lageplan_UB.PNG" target="_blank">U Augsburg, Main Campus, Building N</a>, Room N1033 and Zoom<br/>
     <b>THA slots</b>: <a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html" target="_blank">TH Augsburg, Campus am Roten Tor, Building J</a>, Room J1.19 and Zoom<br/><br/>
 
     <b>Contact (WS24/25): Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b><br/><br/>
 
-    <b>October 16, 2024</b> [extra slot: 1pm, MRM]<br/>
+    <b>October 16, 2024</b> [extra slot: 1pm, UniA, MRM]<br/>
     <!-- Alessandra and Christian can't join -->
     <i>PhD Midterm Presentations: Timo and Valentin</i>
     <br/><br/>
 
-    <b>October 23, 2024</b> [NLU slot]<br/>
+    <b>October 23, 2024</b> [NLU slot, UniA]<br/>
     <!-- Alessandra can't join -->
     <i>Sujin: final internship presentation - 30 minutes</i><br/>
     <i>Timo Schrader: <a href="https://arxiv.org/abs/2410.10449">QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios</a> (EMNLP Dry Run)</i>
     <br/><br/>
 
-    <b>October 30, 2024</b> [NLU slot]<br/>
+    <b>October 30, 2024</b> [NLU slot, UniA]<br/>
      <!-- Anne and Christian can't join -->
      <i>Leo Pöller: Corporate Climate Disclosures: Leveraging Natural Language Processing to Assess Corporate Environmental Agendas (Bachelor thesis interim presentations)<br/>
      Jakob Prange: Preparations for Climate-NLP related Shared Task</i>
     <br/><br/>
 
-    <b>November 06, 2024</b> [NLU slot]<br/>
+    <b>November 06, 2024</b> [NLU slot, UniA]<br/>
     <i>Neu, Jaumann, Niemeier: Bachelor thesis final presentations</i>
     <br/><br/>
 
-    <b>November 13, 2024</b> [NLU slot]<br/>
+    <b>November 13, 2024</b> [NLU slot, UniA]<br/>
     <i>Valentin, Tobias: PhD updates</i>
     <br/><br/>
 
-    <b>November 20, 2024</b> [all, U Augsburg]<br/>
+    <b>November 20, 2024</b> [all, UniA]<br/>
     <!-- Buß- und Bettag, not a holiday in Bavaria though, pick a non-mandatory topic -->
     <i>Reading Group: Zahra, Wei, Valentin, Mahmud, Lukas, Tobias</i>
     <br/><br/>
@@ -50,7 +49,7 @@ permalink: /nlp-seminar-ws2425
     <i>plus one more THA_atlas PhD student</i>
     <br/><br/>
 
-    <b>December 04, 2024</b> [ACoLi slot]<br/>
+    <b>December 04, 2024</b> [ACoLi slot, UniA]<br/>
       <!-- Alessandra probably can't join -->
        <i>tba</i>
     <br/><br/>
@@ -60,16 +59,16 @@ permalink: /nlp-seminar-ws2425
     <i>P. Gaag (interim presentation, Master thesis)</i>
     <br/><br/>
 
-    <b>December 18, 2024</b> [NLU slot]<br/>
+    <b>December 18, 2024</b> [NLU slot, UniA]<br/>
     <i>Jenny: PhD updates (dry run for mid-PhD presentations)</i><br/>
     <i>Wei: PhD updates (dry run for mid-PhD presentations)</i>
     <br/><br/>
     
-    <b>January 8, 2025</b> [ACoLi slot]<br/>
+    <b>January 8, 2025</b> [ACoLi slot, UniA]<br/>
     <i>tba</i>
     <br/><br/>
 
-    <b>January 15, 2025</b> [NLU slot]<br/>
+    <b>January 15, 2025</b> [NLU slot, UniA]<br/>
     <i>Jakob: research updates</i></br>
     <i>Veronika: research updates</i>
         <!-- is that Veronika Gacia?, should be labelled differently, then -->
@@ -81,7 +80,7 @@ permalink: /nlp-seminar-ws2425
         <!-- does that mean zoom only? -->
     <br/><br/>
 
-    <b>January 29, 2025</b> [ACoLi slot]<br/>
+    <b>January 29, 2025</b> [ACoLi slot, UniA]<br/>
    <i>tba</i>
     <br/><br/>
 
