@@ -86,6 +86,9 @@ permalink: /nlp-seminar-ws2425
         <!-- does that mean zoom only? -->
     <br/><br/>
 
+    <b>January 22, 2025</b> [extra ACoLi slot, UniA, Großes Hörsaalzentrum, buildingC, Hörsaal IV<br/>
+    Christian Chiarcos: <i>“Whenever I fire a linguist …” – Zum Verhältnis von Sprachwissenschaft und Sprachtechnologie im 21. Jh.</i> (Antrittsvorlesung)<br/><br/>
+
     <b>January 29, 2025</b> [ACoLi slot, UniA]<br/>
    <i>tba</i>
     <br/><br/>
