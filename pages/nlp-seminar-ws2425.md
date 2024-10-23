@@ -17,7 +17,7 @@ permalink: /nlp-seminar-ws2425
     <b>October 16, 2024</b> [extra NLU slot: 1pm, UniA, MRM]<br/>
     <!-- Alessandra and Christian can't join -->
     <i>Timo: PhD Midterm Presentation</i><br/>
-    <i>Valentin: PhD Midterm Presentation</i><br/></i>
+    <i>Valentin: PhD Midterm Presentation</i><br/>
     <br/><br/>
 
     <b>October 23, 2024</b> [NLU slot, UniA]<br/>
