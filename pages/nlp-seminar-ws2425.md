@@ -28,7 +28,7 @@ permalink: /nlp-seminar-ws2425
 
     <b>October 30, 2024</b> [NLU slot]<br/>
      <!-- Anne and Christian can't join -->
-     <i>Leo Pöller: Corporate Climate Disclosures: Leveraging Natural Language Processing to Assess Corporate Environmental Agendas (Bachelor thesis interim presentations)</br>
+     <i>Leo Pöller: Corporate Climate Disclosures: Leveraging Natural Language Processing to Assess Corporate Environmental Agendas (Bachelor thesis interim presentations)<br/>
      Jakob Prange: Preparations for Climate-NLP related Shared Task</i>
     <br/><br/>
 
