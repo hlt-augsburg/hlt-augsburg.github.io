@@ -77,7 +77,7 @@ permalink: /nlp-seminar-ws2425
     <b>January 15, 2025</b> [NLU slot, UniA]<br/>
     <i>Jakob: research updates</i></br>
     <i>Veronika: research updates</i>
-        <!-- is that Veronika Gacia?, should be labelled differently, then -->
+        <!-- Veronika Gacia? probably won't be there -->
     <br/><br/>
 
 
