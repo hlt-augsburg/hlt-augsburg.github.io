@@ -75,7 +75,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>January 15, 2025</b> [NLU slot, UniA]<br/>
-    <i>Jakob: research updates</i></br>
+    <i>Jakob: research updates</i><br/>
     <i>Veronika: research updates</i>
         <!-- Veronika Gacia? probably won't be there -->
     <br/><br/>
