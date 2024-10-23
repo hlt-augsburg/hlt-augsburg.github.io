@@ -14,9 +14,10 @@ permalink: /nlp-seminar-ws2425
 
     <b>Contact (WS24/25): Annemarie Friedrich (firstname dot lastname at uni minus a dot de)</b><br/><br/>
 
-    <b>October 16, 2024</b> [extra slot: 1pm, UniA, MRM]<br/>
+    <b>October 16, 2024</b> [extra NLU slot: 1pm, UniA, MRM]<br/>
     <!-- Alessandra and Christian can't join -->
-    <i>PhD Midterm Presentations: Timo and Valentin</i>
+    <i>Timo: PhD Midterm Presentation</i><br/>
+    <i>Valentin: PhD Midterm Presentation</i><br/></i>
     <br/><br/>
 
     <b>October 23, 2024</b> [NLU slot, UniA]<br/>
@@ -40,7 +41,8 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 13, 2024</b> [extra ACoLi slot, 17:30-19:00, UniA, room D-4056]<br/>
-    Aleksandra Tomaszewska (Polish Academy of Sciences) and Maria da Purificação Moura Silvano (University of Porto): <i>Multilingual Discourse Relations Annotation in English, Polish, and Portuguese</i> (guest talk at the <a href="https://www.uni-augsburg.de/de/fakultaet/philhist/studium/vortragsreihen/interdisziplinares-linguistisches-kolloquium-augsburg/" target="_main">Interdisziplinäres Linguistisches Kolloquium Augsburg</a>)
+    Aleksandra Tomaszewska (Polish Academy of Sciences) and Maria da Purificação Moura Silvano (University of Porto): <i>Multilingual Discourse Relations Annotation in English, Polish, and Portuguese</i><br/>
+    (guest talk at the <a href="https://www.uni-augsburg.de/de/fakultaet/philhist/studium/vortragsreihen/interdisziplinares-linguistisches-kolloquium-augsburg/" target="_main">Interdisziplinäres Linguistisches Kolloquium Augsburg</a>)
     <br/><br/>
 
     <b>November 20, 2024</b> [all, UniA]<br/>
