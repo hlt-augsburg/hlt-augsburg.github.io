@@ -82,7 +82,7 @@ permalink: /nlp-seminar-ws2425
 
 
     <b>January 22, 2025</b> [THA slot]<br/>
-    <i>Asma Shaikh (Fraunhofer IIS), eye-tracking and pupil dilation</i> (guest talk, zoom)</i>
+    <i>Asma Shaikh (Fraunhofer IIS), eye-tracking and pupil dilation</i> (guest talk, zoom)
         <!-- does that mean zoom only? -->
     <br/><br/>
 
