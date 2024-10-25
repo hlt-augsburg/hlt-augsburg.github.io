@@ -33,7 +33,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 06, 2024</b> [NLU slot, UniA]<br/>
-    <i>Neu, Jaumann, Niemeier: Bachelor thesis final presentations</i>
+    <i>Jaumann: Bachelor thesis final presentations: Daniel Neu, Christian Jaumann</i>
     <br/><br/>
 
     <b>November 13, 2024</b> [NLU slot, UniA]<br/>
@@ -47,7 +47,7 @@ permalink: /nlp-seminar-ws2425
 
     <b>November 20, 2024</b> [all, UniA]<br/>
     <!-- Buß- und Bettag, not a holiday in Bavaria though, pick a non-mandatory topic -->
-    <i>Reading Group: Zahra, Wei, Valentin, Mahmud, Lukas, Tobias</i>
+    <i>Bachelor thesis final presentation: Thomas Niemeier</i>
     <br/><br/>
 
     <b>November 27, 2024</b> [THA slot]<br/>
