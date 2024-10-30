@@ -51,8 +51,8 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 27, 2024</b> [THA slot]<br/>
-    <i>Lukas: PhD update (Lukas)</i><br/>
-    <i>plus one more THA_atlas PhD student</i>
+    <i>Lukas: PhD update</i><br/>
+    <i>Viviana: Dry run for presentation in Pisa (Clic-IT)</i>
     <br/><br/>
 
     <b>December 04, 2024</b> [ACoLi slot, UniA]<br/>
