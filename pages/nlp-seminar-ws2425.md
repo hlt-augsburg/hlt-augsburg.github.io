@@ -33,7 +33,10 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 06, 2024</b> [NLU slot, UniA]<br/>
-    <i>Jaumann: Bachelor thesis final presentations: Daniel Neu, Christian Jaumann</i>
+    <i>Bachelor thesis final presentations<br/>
+    Daniel Neu:</br>
+    Christian Jaumann:
+    </i>
     <br/><br/>
 
     <b>November 13, 2024</b> [NLU slot, UniA]<br/>
