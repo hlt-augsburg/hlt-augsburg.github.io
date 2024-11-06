@@ -54,8 +54,8 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 27, 2024</b> [THA slot]<br/>
-    <i>Lukas: PhD update (Lukas)</i><br/>
-    <i>plus one more THA_atlas PhD student</i>
+    <i>Lukas: PhD update</i><br/>
+    <i>Viviana: Dry run for presentation in Pisa (Clic-IT)</i>
     <br/><br/>
 
     <b>December 04, 2024</b> [ACoLi slot, UniA]<br/>
@@ -84,16 +84,13 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
 
-    <b>January 22, 2025</b> [THA slot]<br/>
-    <i>Asma Shaikh (Fraunhofer IIS), eye-tracking and pupil dilation</i> (guest talk, zoom)
-        <!-- does that mean zoom only? -->
-    <br/><br/>
+    
 
     <b>January 22, 2025</b> [extra ACoLi slot, UniA, Großes Hörsaalzentrum, buildingC, Hörsaal IV<br/>
     Christian Chiarcos: <i>“Whenever I fire a linguist …” – Zum Verhältnis von Sprachwissenschaft und Sprachtechnologie im 21. Jh.</i> (Antrittsvorlesung)<br/><br/>
 
-    <b>January 29, 2025</b> [ACoLi slot, UniA]<br/>
-   <i>tba</i>
+   <b>January 29, 2025</b> [THA slot]<br/>
+    <i>Asma Shaikh (Fraunhofer IIS), eye-tracking and pupil dilation</i> (guest talk, zoom only)
     <br/><br/>
 
     <b>February 05, 2025</b> [THA slot]<br/>
