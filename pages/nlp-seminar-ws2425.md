@@ -34,7 +34,7 @@ permalink: /nlp-seminar-ws2425
 
     <b>November 06, 2024</b> [NLU slot, UniA]<br/>
     <i>Bachelor thesis final presentations<br/>
-    Daniel Neu: Prompt Ensembles for Annotation Error Detection with Large Language Models in Temporal Reasoning Datasets</br>
+    Daniel Neu: Prompt Ensembles for Annotation Error Detection with Large Language Models in Temporal Reasoning Datasets<br/>
     Christian Jaumann: Ranking for Abstract Screening in Systematic Literature Reviews using Large Language Models
     </i>
     <br/><br/>
