@@ -34,8 +34,8 @@ permalink: /nlp-seminar-ws2425
 
     <b>November 06, 2024</b> [NLU slot, UniA]<br/>
     <i>Bachelor thesis final presentations<br/>
-    Daniel Neu:</br>
-    Christian Jaumann:
+    Daniel Neu: Prompt Ensembles for Annotation Error Detection with Large Language Models in Temporal Reasoning Datasets</br>
+    Christian Jaumann: Ranking for Abstract Screening in Systematic Literature Reviews using Large Language Models
     </i>
     <br/><br/>
 
@@ -50,7 +50,12 @@ permalink: /nlp-seminar-ws2425
 
     <b>November 20, 2024</b> [all, UniA]<br/>
     <!-- Buß- und Bettag, not a holiday in Bavaria though, pick a non-mandatory topic -->
-    <i>Bachelor thesis final presentation: Thomas Niemeier</i>
+    <i>Bachelor thesis final presentation: Thomas Niemeier: Large Language Model based Information Extraction from Visually Rich Documents<br/>
+    Reading group papers:<br>
+    [Navigating the Grey Area: How Expressions of Uncertainty and Overconfidence Affect Language Models](https://aclanthology.org/2023.emnlp-main.335/) (Zhou et al., EMNLP 2023) - presented by Anne<br/>
+    [Injecting Learnable Table Features into LLMs](https://openreview.net/forum?id=Mi45HjlVRj) (under review at ICLR) - presented by Wei <br/>
+    [one more paper](link to be added) - presented by Viviana
+    </i>
     <br/><br/>
 
     <b>November 27, 2024</b> [THA slot]<br/>
