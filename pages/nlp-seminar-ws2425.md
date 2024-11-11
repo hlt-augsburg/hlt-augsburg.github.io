@@ -55,7 +55,8 @@ permalink: /nlp-seminar-ws2425
     <a href="https://aclanthology.org/2023.emnlp-main.335/">Navigating the Grey Area: How Expressions of Uncertainty and Overconfidence Affect Language Models</a> (Zhou et al., EMNLP 2023) - presented by Anne<br/>
     <a href="https://openreview.net/forum?id=Mi45HjlVRj">Injecting Learnable Table Features into LLMs</a>
      (under review at ICLR) - presented by Wei <br/>
-    One more paper - presented by Viviana
+     <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/ee6630dcbcff857026e474fc857aa9f0-Paper-Conference.pdf">Language Models Meet World Models: Embodied Experiences Enhance Language Models</a>
+     (Xiang et al, NeurIPS 2023) - presented by Viviana
     </i>
     <br/><br/>
 
