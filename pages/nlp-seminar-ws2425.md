@@ -40,6 +40,8 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>November 13, 2024</b> [UniA]<br/>
+    <!-- Alexandra can't join -->
+    <!-- Christian possible can't join -->
     <i>Valentin, Tobias: PhD updates</i>
     <br/><br/>
 
