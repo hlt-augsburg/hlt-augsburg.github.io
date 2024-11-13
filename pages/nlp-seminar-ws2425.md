@@ -85,11 +85,11 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
     
     <b>January 8, 2025</b> [tbd.]<br/>
-    <i>tba</i>
+    <i>Jakob: research updates</i><br/>
     <br/><br/>
 
     <b>January 15, 2025</b> [UniA]<br/>
-    <i>Jakob: research updates</i><br/>
+    <i>External speaker: <a href="https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/milano/index.html">Silvia Milano</a> (LMU / University of Exeter, UK)</i>
     <br/><br/>
     
    <b>January 29, 2025</b> [THA]<br/>
