@@ -85,7 +85,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
     
     <b>January 8, 2025</b> [tbd.]<br/>
-    <i>Jakob: research updates</i><br/>
+    <i>Team Event: New Year's Brunch (instead of Christmas Party) - location to be announced</i><br/>
     <br/><br/>
 
     <b>January 15, 2025</b> [UniA]<br/>
