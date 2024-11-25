@@ -55,12 +55,10 @@ permalink: /nlp-seminar-ws2425
     <i>Bachelor thesis final presentation: Thomas Niemeier: Large Language Model based Information Extraction from Visually Rich Documents<br/>
     Reading group papers:<br>
     <a href="https://openreview.net/forum?id=Mi45HjlVRj">Injecting Learnable Table Features into LLMs</a>
-     (under review at ICLR) - presented by Wei <br/>
-     <a href="https://link.springer.com/article/10.1007/s11704-024-40231-1">A survey on large language model based autonomous agents</a> (presented by Zahra)<br/>
+     (under review at ICLR)<br/>
+     <a href="https://link.springer.com/article/10.1007/s11704-024-40231-1">A survey on large language model based autonomous agents</a><br/>
          <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/ee6630dcbcff857026e474fc857aa9f0-Paper-Conference.pdf">Language Models Meet World Models: Embodied Experiences Enhance Language Models</a>
-     (Xiang et al, NeurIPS 2023) - presented by Viviana<br/>
-    <a href="https://aclanthology.org/2023.emnlp-main.335/">Navigating the Grey Area: How Expressions of Uncertainty and Overconfidence Affect Language Models</a> (Zhou et al., EMNLP 2023) - presented by Anne<br/>
-
+     (Xiang et al, NeurIPS 2023)<br/>
     </i>
     <br/><br/>
 
