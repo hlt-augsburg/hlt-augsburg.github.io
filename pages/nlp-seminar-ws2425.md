@@ -66,7 +66,7 @@ permalink: /nlp-seminar-ws2425
 
     <b>November 27, 2024</b> [THA]<br/>
     <i>Lukas: "How do LLMs understand code and syntax?" (Phd update)</i><br/>
-    <i>Viviana & Moritz: "THAVQA: a German task-oriented VQA dataset annotated with human visual attention" (Dry run for Clic-IT presentation in Pisa Clic-IT)</i>
+    <i>Viviana & Moritz: "THAVQA: a German task-oriented VQA dataset annotated with human visual attention" (Dry run for Clic-IT presentation in Pisa)</i>
     <br/><br/>
 
     <b>December 04, 2024</b> [UniA]<br/>
