@@ -69,7 +69,7 @@ permalink: /nlp-seminar-ws2425
 
     <b>December 04, 2024</b> [UniA]<br/>
       <!-- Alessandra probably can't join -->
-       <i>Christian Chiarcos, Aspects of Knowledge Representation for Discourse Relation Annotation</i>
+       <i>Christian Chiarcos, <a href="https://www.youtube.com/watch?v=FxiOM5zAKo8">Aspects of Knowledge Representation for Discourse Relation Annotation</a></i>
     <br/><br/>
 
     <b>December 11, 2024</b> [THA]<br/>
