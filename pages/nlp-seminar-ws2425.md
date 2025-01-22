@@ -91,7 +91,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
     
    <b>January 29, 2025</b> [THA]<br/>
-    <i>Asma Shaikh (Fraunhofer IIS), eye-tracking and pupil dilation</i> (guest talk, zoom only)
+    <i>Multimodal Entity Tracking (Viviana and David)</i>
     <br/><br/>
 
     <b>February 05, 2025</b> [THA]<br/>
