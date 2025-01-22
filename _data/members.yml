@@ -38,6 +38,16 @@
     affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
+-
+    name: 'Fabio Mariani'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'Researcher'
+    pic: "tba"
+    website: 'Personal Website'
+    websiteurl: 'tba'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
 
 -
     name: 'Veronika Gacia'
@@ -139,6 +149,16 @@
     website: 'Personal Website'
     websiteurl: 'https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/felser-jenny/'
     affiliation: 'Hochschule Mittweida <br/> Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
+-
+    name: 'Sabrina Achberger'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'Team Assistant'
+    pic: "tba"
+    website: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+    websiteurl: 'tba'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 
