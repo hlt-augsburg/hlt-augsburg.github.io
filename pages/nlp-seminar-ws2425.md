@@ -96,7 +96,6 @@ permalink: /nlp-seminar-ws2425
 
     <b>February 05, 2025</b> [THA]<br/>
     <i>M. Müller (Master thesis)</i><br/>
-    <i>P. Gaag (Master thesis)</i><br/>
     <i>S. Rudics (Master thesis)</i>
     <br/><br/>
 
