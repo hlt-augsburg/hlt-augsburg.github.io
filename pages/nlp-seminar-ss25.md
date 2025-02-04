@@ -1,5 +1,5 @@
 ---
-permalink: /nlp-seminar-ss24
+permalink: /nlp-seminar-ss25
 ---
 
 <div class="container">
