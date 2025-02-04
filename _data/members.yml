@@ -172,3 +172,14 @@
     affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
 
+-
+    name: 'Georg Hofmann'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'Master Student'
+    pic: "tba"
+    website: 'Team Website'
+    websiteurl: 'tba'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
+
