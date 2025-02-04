@@ -95,7 +95,7 @@ permalink: /nlp-seminar-ws2425
     <br/><br/>
 
     <b>February 05, 2025</b> [THA]<br/>
-    <i>M. Müller (Master thesis)</i>
+    <i>M. Müller - Integration Approaches for Text Mining Systems in Leveraging Dark Data</i>
     <br/><br/>
 
         </div>
