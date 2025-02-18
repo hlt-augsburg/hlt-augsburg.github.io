@@ -8,6 +8,10 @@ Adapted from Agency theme based on [Agency bootstrap theme ](https://startbootst
 Team members are listed in `_data/members.yml`.
 Add their photo to `img/team` in a format of 200x200px.
 A good open source tool to quickly bring your picture to the right format is GIMP: In the menu "Image," work with "Scale Image" and "Canvas Size."
+Deutsch:
+* "Bild" - "Leinwandgröße": auf Quadrat einstellen und Bildausschnitt wählen. "Größe ändern"
+* "Bild" - "Skalieren": auf 200x200px ändern. "Bild skalieren"
+* "Datei" - Bildname.jpg überschreiben "Exportieren"
 
 # Add a post
 
