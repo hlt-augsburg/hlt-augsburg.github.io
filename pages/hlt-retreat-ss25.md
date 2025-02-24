@@ -21,6 +21,10 @@ permalink: /hlt-retreat-ss25
         <div class="col-lg-12 text-center">
             <h2>HLT @ Augsburg Retreat Summer Semester 2025</h2>
             <h3>April 2 & April 3, 2024</h3>
+          <ul>
+            <li>Raum:</li>
+            <li>Mittagessen Mittwoch: </li>
+          </ul>
         </div>
     </div>
 
