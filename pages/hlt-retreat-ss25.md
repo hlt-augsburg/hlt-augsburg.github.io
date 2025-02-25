@@ -23,7 +23,9 @@ permalink: /hlt-retreat-ss25
             <h3>April 2 & April 3, 2024</h3>
           <ul>
             <li>Raum: Campus Gebäude N </li>
-            <li>Mittagessen Mittwoch: Donnerstag, 03.04.25, 12:00 Uhr im Unikum </li>
+            <li>Mittagessen: Mittwoch, 02.04.25, </li>
+            <li>Event: Mittwoch Abend </li>
+            <li>Mittagessen: Donnerstag, 03.04.25, 12:00 Uhr im Unikum </li>
           </ul>
         </div>
     </div>
