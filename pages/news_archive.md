@@ -11,6 +11,7 @@ permalink: /news-archive
             </div>
         </div>
         <ul>
+         <li>July 23, 2024 -- The GSCL board meeting was hosted at the University of Augsburg! <a href="https://gscl.org/2024/07/23/vorstandsklausur.html">Link</a></li>
         <li>July 17, 2024 -- Three papers co-authored by Alessandra Zarcone have been accepted for publication: D. Schwarz, A. Zarcone and F. Laquai: <a href="https://dl.gi.de/items/9815cf69-3354-49e2-86fd-e652dd633e12">Talk to your Cobot: faster and more efficient error-handling in a robotic system with a multi-modal Conversational Agent    </a>  (Mensch und Roboter 2024), C. Geiss and A. Zarcone: <strong>THAugs at GermEval 2024 (Shared Task 1: GerMS-Detect): Predicting the Severity of Misogyny/Sexism in Forum Comments with BERT Models (Subtask 1, Open Track and Closed Track)" 
         </strong>(to be presented at Germeval 2024), and A. Zarcone: <strong>Attention and Salience</strong> to appear in Oxford Bibliographies in Linguistics.</li>
     <li>April 5, 2024 -- Two papers co-authored by Christian Chiarcos have been accepted to LREC/Coling 2024: <a href="https://aclanthology.org/2024.lrec-main.225/">Bridging Computational Lexicography and Corpus Linguistics: A Query Extension for OntoLex-FrAC</a> and <a href="https://aclanthology.org/2024.lrec-main.1084/">On Modelling Corpus Citations in Computational Lexical Resources</a>. Congrats, Christian!</li>
