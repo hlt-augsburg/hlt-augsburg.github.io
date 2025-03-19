@@ -73,4 +73,7 @@ permalink: /hlt-retreat-ss25
 <td style="width:10%"><strong>12:20 - 12:40</strong></td><td> Talk by Valentin Knappich: <i>Evaluating Patent Generation</i></td>
 </tr>
 <tr>
+<td style="width:10%"><strong>12:45</strong></td><td> <strong>Group Photo (inner courtyard)</strong></td>
+</tr>
+<tr>
 <td style="width:10%"><strong>13:00</strong></td><td><strong>Lunch</strong> at <a href="https://www.lacommedia.eu/augsburg.html">La Commedia</a></td>
