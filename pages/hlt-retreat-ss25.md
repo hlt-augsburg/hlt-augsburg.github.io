@@ -46,6 +46,9 @@ permalink: /hlt-retreat-ss25
 <td style="width:10%"></td><td>Benjamin Schüßler: <i>Analyzing and improving the layperson readability of company climate reports (Master thesis proposal)</i></td>
 </tr>
 <tr>
+<td style="width:10%"></td><td>Wei Zhou: <i>Global and Iterative reasoning in Table Question Answering</i></td>
+</tr>
+<tr>
 <td style="width:10%"><strong>10:30 - 10:45</strong></td><td> <strong>Coffee and tea break</strong></td>
 </tr>
 <tr>
@@ -55,13 +58,10 @@ permalink: /hlt-retreat-ss25
 <td style="width:10%"><strong>11:05 - 11:25</strong></td><td> Talk by Timo Schrader: <i>Solver-Guided Instruction Tuning of Large Language Models for Answer Set Programming</i></td>
 </tr>
 <tr>
-<td style="width:10%"><strong>11:25 - 12:00</strong></td><td><strong> Poster session 2</strong></td>
+<td style="width:10%"><strong>11:30 - 12:00</strong></td><td><strong> Poster session 2</strong></td>
 </tr>
 <tr>
 <td style="width:10%"></td><td>Georg Hofmann: <i>Confidence Estimation for Extreme Multi-label Text Classification using Large Language Models (Master thesis proposal)</i></td>
-</tr>
-<tr>
-<td style="width:10%"></td><td>Wei Zhou: <i>Global and Iterative reasoning in Table Question Answering</i></td>
 </tr>
 <tr>
 <td style="width:10%"></td><td>Nisa Büyükyildirim Onmaz: <i>Talking AI: How Linguistic Strategies Shape AI-Generated Medical Communication</i></td>
