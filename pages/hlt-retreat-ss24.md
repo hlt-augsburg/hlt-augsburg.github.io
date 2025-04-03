@@ -109,3 +109,12 @@ permalink: /hlt-retreat-ss24
     <td class="tg-0lax" colspan="2">Coffee and Informal End</td>
   </tr>
   </table>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+<h2>Photos</h2>
+<img src="img/events/retreat-ss24-stairs.jpg" alt="Group photo taken at the HLT Retreat Summer Semester 2025" class="responsive"/>
+</div>
+</div>
+</div>
