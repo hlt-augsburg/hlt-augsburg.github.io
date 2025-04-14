@@ -84,7 +84,7 @@ permalink: /nlp-seminar-ss25
                         <td>July 2, 2025, 17.30-19.00 !!</td>
                         <td>Olga Kellert</td>
                         <td>TBA, Joint event with the Interdisciplinary Linguistics Colloquium.</td>
-                        <td>N1056(+Zoom?)</td>
+                        <td> Main Campus (at Interdisciplinary Linguistics Colloquium) </td>
                     </tr>
                     <tr>
                         <td>July 9, 2025</td>
