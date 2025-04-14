@@ -45,10 +45,10 @@ permalink: /nlp-seminar-ss25
                         <td>N1056/Zoom</td>
                     </tr>
                     <tr>
-                        <td>May 21, 2025</td>
-                        <td>TBA</td>
-                        <td>TBA</td>
-                        <td>N1056/Zoom</td>
+                        <td>May 21, 2025, 17.00 !!</td>
+                        <td>Annemarie Friedrich</td>
+                        <td>Anntrittsvorlesung</td>
+                        <td>Main Campus</td>
                     </tr>
                     <tr>
                         <td>May 28, 2025</td>
