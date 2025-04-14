@@ -58,21 +58,15 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>June 4, 2025</td>
-                        <td>TBA</td>
-                        <td>TBA</td>
-                        <td>N1056/Zoom</td>
+                        <td>Jakob Sturm (BMW) + Philipp Gaag</td>
+                        <td>TBA/TBA</td>
+                        <td>N1056+Zoom</td>
                     </tr>
                     <tr>
                         <td>June 11, 2025</td>
                         <td>Leo Pöller</td>
                         <td>Working Title "Dealing With Uncertainties In Corporate Climate Reports: Multidimensional classification and interpretation with LLMs and Contrastive Explanations"</td>
                         <td>N1056/Zoom</td>
-                    </tr>
-                    <tr>
-                        <td>June 18, 2025</td>
-                        <td>Jakob Sturm (BMW) + Philipp Gaag</td>
-                        <td>TBA/TBA</td>
-                        <td>N1056+Zoom</td>
                     </tr>
                     <tr>
                         <td>June 25, 2025</td>
