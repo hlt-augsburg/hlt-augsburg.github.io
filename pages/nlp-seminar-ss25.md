@@ -58,7 +58,7 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>June 4, 2025, 18.00!!</td>
-                        <td>Annemarie Friedrich</td>
+                        <td>Annemarie Friedrich und Christian Chiarcos</td>
                         <td>Antrittsvorlesung</td>
                         <td>Main Campus</td>
                     </tr>
