@@ -57,9 +57,9 @@ permalink: /nlp-seminar-ss25
                         <td>N1056/Zoom</td>
                     </tr>
                     <tr>
-                        <td>June 4, 2025, 17.00!!</td>
+                        <td>June 4, 2025, 18.00!!</td>
                         <td>Annemarie Friedrich</td>
-                        <td>Anntrittsvorlesung</td>
+                        <td>Antrittsvorlesung</td>
                         <td>Main Campus</td>
                     </tr>
                     <tr>
