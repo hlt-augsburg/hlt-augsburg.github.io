@@ -48,7 +48,7 @@ permalink: /nlp-seminar-ss25
                         <td>May 21, 2025</td>
                         <td>TBA</td>
                         <td>TBA</td>
-                        <td>N1056+Zoom</td>
+                        <td>N1056/Zoom</td>
                     </tr>
                     <tr>
                         <td>May 28, 2025</td>
@@ -66,7 +66,7 @@ permalink: /nlp-seminar-ss25
                         <td>June 11, 2025</td>
                         <td>Leo Pöller</td>
                         <td>Working Title "Dealing With Uncertainties In Corporate Climate Reports: Multidimensional classification and interpretation with LLMs and Contrastive Explanations"</td>
-                        <td>N1056/Zoom</td>
+                        <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
                         <td>June 18, 2025</td>
@@ -83,14 +83,14 @@ permalink: /nlp-seminar-ss25
                     <tr>
                         <td>July 2, 2025, 17.30-19.00 !!</td>
                         <td>Olga Kellert</td>
-                        <td>TBA, Joint event with the Interdisciplinary Linguistics Colloquium.</td>
-                        <td> Main Campus (at Interdisciplinary Linguistics Colloquium) </td>
+                        <td>TBA, Joint event with the Interdisciplinary Linguistics Colloquium</td>
+                        <td> Main Campus (at Interdisciplinary Linguistics Colloquium)</td>
                     </tr>
                     <tr>
                         <td>July 9, 2025</td>
-                        <td>TBA</td>
-                        <td>TBA</td>
-                        <td>N1056/Zoom</td>
+                        <td>Fabio Mariani and Hanna Schmück</td>
+                        <td>Progress Reports</td>
+                        <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
                         <td>July 16, 2025</td>
