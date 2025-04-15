@@ -9,7 +9,7 @@ permalink: /nlp-seminar-ss25
             Wednesdays, 10am<br/>
             N1056 and Zoom<br/>
             All TBAs are bookeable, please e-mail Hanna Schmueck (firstname dot lasname  @uni-a.de) to reserve a slot. <br/><br/>
-            <h4>Current Schedule</h4>
+            <h4>Current Schedule - Preliminary (will be confirmed by April 23rd)</h4>
             <table class="table table-striped">
                 <thead>
                     <tr>
@@ -45,10 +45,10 @@ permalink: /nlp-seminar-ss25
                         <td>N1056/Zoom</td>
                     </tr>
                     <tr>
-                        <td>May 21, 2025, 17.00 !!</td>
-                        <td>Annemarie Friedrich</td>
-                        <td>Anntrittsvorlesung</td>
-                        <td>Main Campus</td>
+                        <td>May 21, 2025</td>
+                        <td>TBA</td>
+                        <td>TBA</td>
+                        <td>N1056+Zoom</td>
                     </tr>
                     <tr>
                         <td>May 28, 2025</td>
@@ -57,16 +57,22 @@ permalink: /nlp-seminar-ss25
                         <td>N1056/Zoom</td>
                     </tr>
                     <tr>
-                        <td>June 4, 2025</td>
-                        <td>Jakob Sturm (BMW) + Philipp Gaag</td>
-                        <td>TBA/TBA</td>
-                        <td>N1056+Zoom</td>
+                        <td>June 4, 2025, 17.00!!</td>
+                        <td>Annemarie Friedrich</td>
+                        <td>Anntrittsvorlesung</td>
+                        <td>Main Campus</td>
                     </tr>
                     <tr>
                         <td>June 11, 2025</td>
                         <td>Leo Pöller</td>
                         <td>Working Title "Dealing With Uncertainties In Corporate Climate Reports: Multidimensional classification and interpretation with LLMs and Contrastive Explanations"</td>
                         <td>N1056/Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>June 18, 2025</td>
+                        <td>Jakob Sturm (BMW) + Philipp Gaag</td>
+                        <td>TBA/TBA</td>
+                        <td>TH Augsburg, Campus am Roten Tor, Building J, Room J1.19 and Zoom</td>
                     </tr>
                     <tr>
                         <td>June 25, 2025</td>
