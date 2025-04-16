@@ -76,9 +76,9 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>June 25, 2025</td>
-                        <td>TBA</td>
-                        <td>TBA</td>
-                        <td>N1056/Zoom</td>
+                        <td>Valentin Knappich</td>
+                        <td>Working Title: PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims</td>
+                        <td>Zoom</td>
                     </tr>
                     <tr>
                         <td>July 2, 2025, 17.30-19.00 !!</td>
@@ -94,9 +94,9 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>July 16, 2025</td>
-                        <td>TBA</td>
-                        <td>TBA</td>
-                        <td>N1056/Zoom</td>
+                        <td>Georg Hoffmann</td>
+                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models</td>
+                        <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
                         <td>July 23, 2025</td>
