@@ -182,4 +182,14 @@
     affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
+-
+    name: 'Hanna Schmück'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'Researcher'
+    pic: "tba"
+    website: 'Team Website'
+    websiteurl: 'tba'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
 
