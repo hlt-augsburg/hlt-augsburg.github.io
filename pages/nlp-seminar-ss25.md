@@ -9,7 +9,7 @@ permalink: /nlp-seminar-ss25
             Wednesdays, 10am<br/>
             N1056 and Zoom<br/>
             All TBAs are bookeable, please e-mail Hanna Schmueck (firstname dot lasname  @uni-a.de) to reserve a slot. <br/><br/>
-            <h4>Current Schedule - Preliminary (will be confirmed by April 23rd)</h4>
+            <h4>Current Schedule - Preliminary (will be confirmed by the May 1st)</h4>
             <table class="table table-striped">
                 <thead>
                     <tr>
@@ -20,18 +20,6 @@ permalink: /nlp-seminar-ss25
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td>April 23, 2025</td>
-                        <td>TBA</td>
-                        <td>TBA</td>
-                        <td>N1056/Zoom</td>
-                    </tr>
-                    <tr>
-                        <td>April 30, 2025</td>
-                        <td>TBA</td>
-                        <td>TBA</td>
-                        <td>N1056/Zoom</td>
-                    </tr>
                     <tr>
                         <td>May 7, 2025</td>
                         <td>TBA</td>
