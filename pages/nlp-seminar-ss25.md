@@ -64,8 +64,8 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>June 25, 2025</td>
-                        <td>Jakob Sturm (BMW) + Philipp Gaag</td>
-                        <td>TBA/TBA</td>
+                        <td>Jakob Sturm (BMW) and Philipp Gaag</td>
+                        <td>TBA / Evaluating Effective and Efficient Methods for Table-based Question Answering with Large Language Models</td>
                         <td>TH Augsburg, Campus am Roten Tor, Building J, Room J1.19 and Zoom</td>
                     </tr>
                     <tr>
