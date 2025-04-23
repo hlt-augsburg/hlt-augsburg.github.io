@@ -34,8 +34,8 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>May 21, 2025</td>
-                        <td>Valentin Knappich</td>
-                        <td>Working Title: PEDANTIC: A Dataset for the Automatic Examination of Definiteness in                                 Patent Claims</td>
+                        <td>Valentin Knappich and Asma Shaikh</td>
+                        <td>Working Title: PEDANTIC: A Dataset for the Automatic Examination of Definiteness in                                 Patent Claims / TBA</td>
                         <td>Zoom</td>
                     </tr>
                     <tr>
