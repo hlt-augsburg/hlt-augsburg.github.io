@@ -58,9 +58,9 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>June 18, 2025</td>
+                        <td>David von Proeck-Zvlcil</td>
                         <td>TBA</td>
-                        <td>TBA</td>
-                        <td>N1056/Zoom</td>
+                        <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
                         <td>June 25, 2025</td>
@@ -82,8 +82,8 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>July 16, 2025</td>
-                        <td>Georg Hoffmann</td>
-                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models</td>
+                        <td>Georg Hoffmann and Jakob Prange</td>
+                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models / Sustainable Results Sneak Peek</td>
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
