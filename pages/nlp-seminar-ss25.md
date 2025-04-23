@@ -67,8 +67,6 @@ permalink: /nlp-seminar-ss25
                         <td>Jakob Sturm (BMW) + Philipp Gaag</td>
                         <td>TBA/TBA</td>
                         <td>TH Augsburg, Campus am Roten Tor, Building J, Room J1.19 and Zoom</td>
-                        
-
                     </tr>
                     <tr>
                         <td>July 2, 2025, 17.30-19.00 !!</td>
