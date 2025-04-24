@@ -28,8 +28,8 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>May 14, 2025</td>
-                        <td>TBA</td>
-                        <td>TBA</td>
+                        <td>Raphael Huber und Patrick Göttfert</td>
+                        <td>TBA/TBA</td>
                         <td>N1056/Zoom</td>
                     </tr>
                     <tr>
