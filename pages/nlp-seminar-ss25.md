@@ -29,8 +29,8 @@ permalink: /nlp-seminar-ss25
                     <tr>
                         <td>May 14, 2025</td>
                         <td>Raphael Huber und Patrick Göttfert</td>
-                        <td>TBA/TBA</td>
-                        <td>N1056/Zoom</td>
+                        <td>How to create a corpus of sustainability reports in a few months (combined presentation)</td>
+                        <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
                         <td>May 21, 2025</td>
@@ -76,8 +76,8 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>July 9, 2025</td>
-                        <td>Fabio Mariani and Hanna Schmück</td>
-                        <td>Progress Reports</td>
+                        <td>Fabio Mariani, Hanna Schmück, and Benjamin Schüßler</td>
+                        <td>Progress Report / Progress Report / Analyzing and Improving the Readability of Company Climate Reports </td>
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
