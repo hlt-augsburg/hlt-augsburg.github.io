@@ -7,9 +7,8 @@ permalink: /nlp-seminar-ss25
             <h2>HLT Seminar</h2>
             <h3>Summer Semester 2025</h3>
             Wednesdays, 10am<br/>
-            N1056 and Zoom<br/>
-            All TBAs are bookeable, please e-mail Hanna Schmueck (firstname dot lasname  @uni-a.de) to reserve a slot. <br/><br/>
-            <h4>Current Schedule - Preliminary (will be confirmed by the May 1st)</h4>
+            Slots for the following sessions are still bookeable: May 14, June 11, June 18. Please e-mail Hanna Schmueck (firstname dot lasname  @uni-a.de) to reserve a slot. <br/><br/>
+            <h4>Current Schedule</h4>
             <table class="table table-striped">
                 <thead>
                     <tr>
@@ -20,12 +19,6 @@ permalink: /nlp-seminar-ss25
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td>May 7, 2025</td>
-                        <td>TBA</td>
-                        <td>TBA</td>
-                        <td>N1056/Zoom</td>
-                    </tr>
                     <tr>
                         <td>May 14, 2025</td>
                         <td>Raphael Huber und Patrick Göttfert</td>
@@ -40,9 +33,9 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>May 28, 2025</td>
-                        <td>TBA</td>
-                        <td>TBA</td>
-                        <td>N1056/Zoom</td>
+                        <td>Lukas Kleybolte, Viviana Ventura and Joshua Braun </td>
+                        <td>Research Update / Research Update / TBA</td>
+                        <td>TH Augsburg, Campus am Roten Tor, Building J, Room J1.19 and Zoom</td>
                     </tr>
                     <tr>
                         <td>June 4, 2025, 18.00!!</td>
@@ -88,9 +81,9 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>July 23, 2025</td>
+                        <td>Social Event</td>
                         <td>TBA</td>
                         <td>TBA</td>
-                        <td>N1056/Zoom</td>
                     </tr>
                 </tbody>
             </table>
