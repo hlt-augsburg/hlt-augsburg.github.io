@@ -20,7 +20,7 @@ permalink: /nlp-seminar-ss25
                 </thead>
                 <tbody>
                     <tr>
-                        <td>May 14, 2025</td>
+                        <td>May 14, 2025, <b>10.30-11.30!</b></td>
                         <td>Raphael Huber und Patrick Göttfert</td>
                         <td>How to create a corpus of sustainability reports in a few months (combined presentation)</td>
                         <td>N1056 preferred, Zoom possible</td>
