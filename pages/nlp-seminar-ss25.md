@@ -7,7 +7,7 @@ permalink: /nlp-seminar-ss25
             <h2>HLT Seminar</h2>
             <h3>Summer Semester 2025</h3>
             Wednesdays, 10am<br/>
-            Slots for the following sessions are still bookeable: May 14, June 11, June 18. Please e-mail Hanna Schmueck (firstname dot lasname  @uni-a.de) to reserve a slot. <br/><br/>
+            Please e-mail Hanna Schmueck (firstname dot lasname  @uni-a.de) to reserve a slot. <br/><br/>
             <h4>Current Schedule</h4>
             <table class="table table-striped">
                 <thead>
