@@ -29,13 +29,13 @@ permalink: /nlp-seminar-ss25
                         <td>May 21, 2025</td>
                         <td>Valentin Knappich and Asma Shaikh</td>
                         <td>Working Title: PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims / Eyetracking to assess the effectiveness of debiasing strategies for privacy decision-making in Conversational AI</td>
-                        <td><a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html">TH Augsburg, Campus am Roten Tor</a>, Building J, Room J1.19 and Zoom</td>
+                        <td><a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html">TH Augsburg, Campus am Roten Tor</a>, Building J, Room J2.18 and Zoom</td>
                     </tr>
                     <tr>
                         <td>May 28, 2025</td>
                         <td>Lukas Kleybolte, Viviana Ventura and Joshua Braun </td>
                         <td>Research Update / Research Update / TBA</td>
-                        <td><a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html">TH Augsburg, Campus am Roten Tor</a>, Building J, Room J1.19 and Zoom</td>
+                        <td><a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html">TH Augsburg, Campus am Roten Tor</a>, Building J, Room J2.18 and Zoom</td>
                     </tr>
                     <tr>
                         <td>June 4, 2025, 18.00!!</td>
@@ -59,7 +59,7 @@ permalink: /nlp-seminar-ss25
                         <td>June 25, 2025</td>
                         <td>Jakob Sturm (BMW) and Philipp Gaag</td>
                         <td>TBA / Evaluating Effective and Efficient Methods for Table-based Question Answering with Large Language Models</td>
-                        <td>TH Augsburg, Campus am Roten Tor, Building J, Room J1.19 and Zoom</td>
+                        <td>TH Augsburg, Campus am Roten Tor, Building J, Room J2.18 and Zoom</td>
                     </tr>
                     <tr>
                         <td>July 2, 2025, 17.30-19.00 !!</td>
