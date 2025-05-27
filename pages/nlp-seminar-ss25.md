@@ -28,13 +28,13 @@ permalink: /nlp-seminar-ss25
                     <tr>
                         <td>May 21, 2025</td>
                         <td>Valentin Knappich and Asma Shaikh</td>
-                        <td>Working Title: PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims / Eyetracking to assess the effectiveness of debiasing strategies for privacy decision-making in Conversational AI</td>
+                        <td>PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims / Eyetracking to assess the effectiveness of debiasing strategies for privacy decision-making in Conversational AI</td>
                         <td><a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html">TH Augsburg, Campus am Roten Tor</a>, Building J, Room J2.18 and Zoom</td>
                     </tr>
                     <tr>
                         <td>May 28, 2025</td>
-                        <td>Lukas Kleybolte, Viviana Ventura and Joshua Braun </td>
-                        <td>Research Update / Research Update / TBA</td>
+                        <td>Viviana Ventura and Joshua Braun </td>
+                        <td>Updates on the SciVQA challenge / Eyegaze behavior and physiological activity patterns during a simulated team task</td>
                         <td><a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html">TH Augsburg, Campus am Roten Tor</a>, Building J, Room J2.18 and Zoom</td>
                     </tr>
                     <tr>
