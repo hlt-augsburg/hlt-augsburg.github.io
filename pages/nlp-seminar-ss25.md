@@ -38,21 +38,21 @@ permalink: /nlp-seminar-ss25
                         <td><a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html">TH Augsburg, Campus am Roten Tor</a>, Building J, Room J2.18 and Zoom</td>
                     </tr>
                     <tr>
-                        <td>June 4, 2025, 18.00!!</td>
+                        <td>June 4, 2025, 17:30-19:00</td>
                         <td>Annemarie Friedrich und Christian Chiarcos</td>
-                        <td>Antrittsvorlesung</td>
-                        <td>Main Campus</td>
+                        <td>Antrittsvorlesungen</td>
+                        <td>Main Campus, N-HS 2045</td>
                     </tr>
                     <tr>
                         <td>June 11, 2025</td>
-                        <td>Prof. Guiseppe Carenini und Leo Pöller</td>
-                        <td>TBA / "Dealing With Uncertainties In Corporate Climate Reports: Multidimensional classification and interpretation with LLMs and Contrastive Explanations"</td>
+                        <td>Prof. Guiseppe Carenini</td>
+                        <td>Towards more intentional LLMs</td>
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
                         <td>June 18, 2025</td>
-                        <td>David von Proeck-Zvlcil</td>
-                        <td>TBA</td>
+                        <td>David von Proeck-Zvlcil und Leo Pöller</td>
+                        <td>TBA / "Dealing With Uncertainties In Corporate Climate Reports: Multidimensional classification and interpretation with LLMs and Contrastive Explanations"</td>
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
