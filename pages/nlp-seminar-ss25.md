@@ -45,8 +45,8 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>June 11, 2025</td>
-                        <td>Leo Pöller</td>
-                        <td>Working Title "Dealing With Uncertainties In Corporate Climate Reports: Multidimensional classification and interpretation with LLMs and Contrastive Explanations"</td>
+                        <td>Prof. Guiseppe Carenini und Leo Pöller</td>
+                        <td>TBA / "Dealing With Uncertainties In Corporate Climate Reports: Multidimensional classification and interpretation with LLMs and Contrastive Explanations"</td>
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
