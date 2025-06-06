@@ -58,7 +58,7 @@ permalink: /nlp-seminar-ss25
                     <tr>
                         <td>June 25, 2025</td>
                         <td>Jakob Sturm (BMW) and Philipp Gaag</td>
-                        <td>TBA / Evaluating Effective and Efficient Methods for Table-based Question Answering with Large Language Models</td>
+                        <td>RAG and Domain Adaptation for Cost and Inference Efficiency in Industry Use Cases / Evaluating Effective and Efficient Methods for Table-based Question Answering with Large Language Models</td>
                         <td>TH Augsburg, Campus am Roten Tor, Building J, Room J2.18 and Zoom</td>
                     </tr>
                     <tr>
