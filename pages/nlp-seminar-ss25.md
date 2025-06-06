@@ -47,7 +47,7 @@ permalink: /nlp-seminar-ss25
                         <td>June 11, 2025</td>
                         <td>Prof. Guiseppe Carenini</td>
                         <td>Towards more intentional LLMs</td>
-                        <td>N1056 preferred, Zoom possible</td>
+                        <td>F1 207 preferred, Zoom possible</td>
                     </tr>
                     <tr>
                         <td>June 18, 2025</td>
