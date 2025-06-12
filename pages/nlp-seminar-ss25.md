@@ -56,6 +56,12 @@ permalink: /nlp-seminar-ss25
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
+                        <td>June 23, 2025, 13:00 </td>
+                        <td>Tobias Schimanski</td>
+                        <td>TBA</td>
+                        <td>Alte Uni, F1 201 and Zoom</td>
+                    </tr>
+                    <tr>
                         <td>June 25, 2025</td>
                         <td>Jakob Sturm (BMW) and Philipp Gaag</td>
                         <td>RAG and Domain Adaptation for Cost and Inference Efficiency in Industry Use Cases / Evaluating Effective and Efficient Methods for Table-based Question Answering with Large Language Models</td>
