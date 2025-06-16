@@ -58,8 +58,8 @@ permalink: /nlp-seminar-ss25
                     <tr>
                         <td>June 23, 2025, 13:00 </td>
                         <td>Tobias Schimanski</td>
-                        <td>TBA</td>
-                        <td>Alte Uni, F1 201 and Zoom</td>
+                        <td>A Practical View on Retrieval Augmented Generation – Challenges and Perspectives on Information Retrieval for Sustainability Disclosures</td>
+                        <td>Alte Uni, F1 207 and Zoom</td>
                     </tr>
                     <tr>
                         <td>June 25, 2025</td>
