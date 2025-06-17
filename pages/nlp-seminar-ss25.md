@@ -27,7 +27,7 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>May 21, 2025</td>
-                        <td>Valentin Knappich and Asma Shaikh</td>
+                        <td>Valentin Knappich and Asma Shaikh, Postgraduate Researcher at Fraunhofer IIS, Erlangen</td>
                         <td>PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims / Eyetracking to assess the effectiveness of debiasing strategies for privacy decision-making in Conversational AI</td>
                         <td><a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html">TH Augsburg, Campus am Roten Tor</a>, Building J, Room J2.18 and Zoom</td>
                     </tr>
@@ -45,7 +45,7 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>June 11, 2025</td>
-                        <td>Prof. Guiseppe Carenini</td>
+                        <td>Prof. Guiseppe Carenini, Professor of Computer Science, University of British Columbia</td>
                         <td>Towards more intentional LLMs</td>
                         <td>F1 207 preferred, Zoom possible</td>
                     </tr>
@@ -57,19 +57,19 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>June 23, 2025, 13:00 </td>
-                        <td>Tobias Schimanski</td>
+                        <td>Tobias Schimanski, Scientific Assistant and Doctoral Student at ETH Zurich</td>
                         <td>A Practical View on Retrieval Augmented Generation – Challenges and Perspectives on Information Retrieval for Sustainability Disclosures</td>
                         <td>Alte Uni, F1 207 and Zoom</td>
                     </tr>
                     <tr>
                         <td>June 25, 2025</td>
-                        <td>Jakob Sturm (BMW) and Philipp Gaag</td>
+                        <td>Jakob Sturm, Doctoral Student at TUM and BMW, and Philipp Gaag</td>
                         <td>RAG and Domain Adaptation for Cost and Inference Efficiency in Industry Use Cases / Evaluating Effective and Efficient Methods for Table-based Question Answering with Large Language Models</td>
                         <td>TH Augsburg, Campus am Roten Tor, Building J, Room J2.18 and Zoom</td>
                     </tr>
                     <tr>
                         <td>July 2, 2025, 17.30-19.00 !!</td>
-                        <td>Olga Kellert</td>
+                        <td>Olga Kellert,  PD at the University of Göttingen</td>
                         <td>TBA, Joint event with the Interdisciplinary Linguistics Colloquium</td>
                         <td> Main Campus (at Interdisciplinary Linguistics Colloquium)</td>
                     </tr>
