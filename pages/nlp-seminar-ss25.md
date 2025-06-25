@@ -70,19 +70,19 @@ permalink: /nlp-seminar-ss25
                     <tr>
                         <td>July 2, 2025, 17.30-19.00 !!</td>
                         <td>Olga Kellert,  PD at the University of Göttingen</td>
-                        <td>TBA, Joint event with the Interdisciplinary Linguistics Colloquium</td>
+                        <td>Computational Approaches to Code-Switching: Parsing Structural Boundaries in Spanish – Guarani Bilingual Data, Joint event with the Interdisciplinary Linguistics Colloquium</td>
                         <td> Main Campus (at Interdisciplinary Linguistics Colloquium)</td>
                     </tr>
                     <tr>
                         <td>July 9, 2025</td>
-                        <td>Fabio Mariani, Hanna Schmück, and Benjamin Schüßler</td>
-                        <td>Progress Report / Progress Report / Analyzing and Improving the Readability of Company Climate Reports </td>
+                        <td>Fabio Mariani, Hanna Schmück, and Jakob Prange</td>
+                        <td>Progress Report / Progress Report / Sustainable Results Sneak Peek </td>
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
                         <td>July 16, 2025</td>
-                        <td>Georg Hoffmann and Jakob Prange</td>
-                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models / Sustainable Results Sneak Peek</td>
+                        <td>Georg Hoffmann and Benjamin Schüßler</td>
+                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models / Analyzing and Improving the Readability of Company Climate Reports</td>
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
