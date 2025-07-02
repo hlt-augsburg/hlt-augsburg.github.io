@@ -69,9 +69,9 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>July 2, 2025, 17.30-19.00 !!</td>
-                        <td>Olga Kellert,  PD at the University of Göttingen</td>
+                        <td>Olga Kellert,  Associate Professor der School of International Letters and Cultures, Arizona State University</td>
                         <td>Computational Approaches to Code-Switching: Parsing Structural Boundaries in Spanish – Guarani Bilingual Data, Joint event with the Interdisciplinary Linguistics Colloquium</td>
-                        <td> Main Campus (at Interdisciplinary Linguistics Colloquium)</td>
+                        <td> Main Campus (at Interdisciplinary Linguistics Colloquium), D-2127</td>
                     </tr>
                     <tr>
                         <td>July 9, 2025</td>
