@@ -75,18 +75,18 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>July 9, 2025</td>
-                        <td>Fabio Mariani, Hanna Schmück, and Jakob Prange</td>
-                        <td>Progress Report / Progress Report / Sustainable Results Sneak Peek </td>
-                        <td>N1056 preferred, Zoom possible</td>
-                    </tr>
-                    <tr>
-                        <td>July 16, 2025</td>
-                        <td>Georg Hoffmann and Benjamin Schüßler</td>
-                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models / Analyzing and Improving the Readability of Company Climate Reports</td>
+                        <td>Fabio Mariani,  and Jakob Prange</td>
+                        <td>Progress Report / Sustainable Results Sneak Peek </td>
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
                         <td>July 23, 2025</td>
+                        <td>Georg Hoffmann, Benjamin Schüßler, Hanna Schmück</td>
+                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models / Analyzing and Improving the Readability of Company Climate Reports,  Progress Report</td>
+                        <td>N1056 preferred, Zoom possible</td>
+                    </tr>
+                    <tr>
+                        <td>Later in July 2025</td>
                         <td>Social Event</td>
                         <td>TBA</td>
                         <td>TBA</td>
