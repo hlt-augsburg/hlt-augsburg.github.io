@@ -81,8 +81,8 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>July 23, 2025</td>
-                        <td>Georg Hoffmann, Benjamin Schüßler, Hanna Schmück</td>
-                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models / Analyzing and Improving the Readability of Company Climate Reports / Progress Report</td>
+                        <td>Benjamin Schüßler, Hanna Schmück</td>
+                        <td>Analyzing and Improving the Readability of Company Climate Reports / Progress Report</td>
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
@@ -90,6 +90,12 @@ permalink: /nlp-seminar-ss25
                         <td>Social Event</td>
                         <td>TBA</td>
                         <td>TBA</td>
+                    </tr>
+                    <tr>
+                        <td>Sneak peek: Next semester</td>
+                        <td>Georg Hoffmann</td>
+                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models</td>
+                        <td>N1056 preferred, Zoom possible</td>
                     </tr>
                 </tbody>
             </table>
