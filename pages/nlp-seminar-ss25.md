@@ -27,7 +27,7 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>May 21, 2025</td>
-                        <td>Valentin Knappich and Asma Shaikh</td>
+                        <td>Valentin Knappich and Asma Shaikh, Postgraduate Researcher at Fraunhofer IIS, Erlangen</td>
                         <td>PEDANTIC: A Dataset for the Automatic Examination of Definiteness in Patent Claims / Eyetracking to assess the effectiveness of debiasing strategies for privacy decision-making in Conversational AI</td>
                         <td><a href="https://www.tha.de/Service/Anfahrt-und-Lageplan.html">TH Augsburg, Campus am Roten Tor</a>, Building J, Room J2.18 and Zoom</td>
                     </tr>
@@ -45,9 +45,9 @@ permalink: /nlp-seminar-ss25
                     </tr>
                     <tr>
                         <td>June 11, 2025</td>
-                        <td>Prof. Guiseppe Carenini</td>
+                        <td>Prof. Guiseppe Carenini, Professor of Computer Science, University of British Columbia</td>
                         <td>Towards more intentional LLMs</td>
-                        <td>N1056 preferred, Zoom possible</td>
+                        <td>F1 207 preferred, Zoom possible</td>
                     </tr>
                     <tr>
                         <td>June 18, 2025</td>
@@ -56,34 +56,46 @@ permalink: /nlp-seminar-ss25
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
+                        <td>June 23, 2025, 13:00 </td>
+                        <td>Tobias Schimanski, Scientific Assistant and Doctoral Student at ETH Zurich</td>
+                        <td>A Practical View on Retrieval Augmented Generation – Challenges and Perspectives on Information Retrieval for Sustainability Disclosures</td>
+                        <td>Alte Uni, F1 207 and Zoom</td>
+                    </tr>
+                    <tr>
                         <td>June 25, 2025</td>
-                        <td>Jakob Sturm (BMW) and Philipp Gaag</td>
-                        <td>TBA / Evaluating Effective and Efficient Methods for Table-based Question Answering with Large Language Models</td>
+                        <td>Jakob Sturm, Doctoral Student at TUM and BMW, and Philipp Gaag</td>
+                        <td>RAG and Domain Adaptation for Cost and Inference Efficiency in Industry Use Cases / Evaluating Effective and Efficient Methods for Table-based Question Answering with Large Language Models</td>
                         <td>TH Augsburg, Campus am Roten Tor, Building J, Room J2.18 and Zoom</td>
                     </tr>
                     <tr>
                         <td>July 2, 2025, 17.30-19.00 !!</td>
-                        <td>Olga Kellert</td>
-                        <td>TBA, Joint event with the Interdisciplinary Linguistics Colloquium</td>
-                        <td> Main Campus (at Interdisciplinary Linguistics Colloquium)</td>
+                        <td>Olga Kellert,  Associate Professor der School of International Letters and Cultures, Arizona State University</td>
+                        <td>Computational Approaches to Code-Switching: Parsing Structural Boundaries in Spanish – Guarani Bilingual Data, Joint event with the Interdisciplinary Linguistics Colloquium</td>
+                        <td> Main Campus (at Interdisciplinary Linguistics Colloquium), D-2127</td>
                     </tr>
                     <tr>
                         <td>July 9, 2025</td>
-                        <td>Fabio Mariani, Hanna Schmück, and Benjamin Schüßler</td>
-                        <td>Progress Report / Progress Report / Analyzing and Improving the Readability of Company Climate Reports </td>
-                        <td>N1056 preferred, Zoom possible</td>
-                    </tr>
-                    <tr>
-                        <td>July 16, 2025</td>
-                        <td>Georg Hoffmann and Jakob Prange</td>
-                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models / Sustainable Results Sneak Peek</td>
+                        <td>Fabio Mariani,  and Jakob Prange</td>
+                        <td>Progress Report / Sustainable Results Sneak Peek </td>
                         <td>N1056 preferred, Zoom possible</td>
                     </tr>
                     <tr>
                         <td>July 23, 2025</td>
+                        <td>Benjamin Schüßler, Hanna Schmück</td>
+                        <td>Analyzing and Improving the Readability of German ESG-Reports / Progress Report</td>
+                        <td>N1056 preferred, Zoom possible</td>
+                    </tr>
+                    <tr>
+                        <td>Later in July 2025</td>
                         <td>Social Event</td>
                         <td>TBA</td>
                         <td>TBA</td>
+                    </tr>
+                    <tr>
+                        <td>Sneak peek: Next semester</td>
+                        <td>Georg Hoffmann</td>
+                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models</td>
+                        <td>N1056 preferred, Zoom possible</td>
                     </tr>
                 </tbody>
             </table>
