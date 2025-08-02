@@ -11,6 +11,9 @@ permalink: /news-archive
             </div>
         </div>
         <ul>
+                <li>February 1, 2025 -- Paper accepted at NAACL 2025 (Findings): <a href="https://arxiv.org/abs/2412.20145">Efficient Multi-Agent Collaboration with Tool Use
+            for Online Planning in Complex Table Question Answering</a> - congrats, Wei! (Joint work with Mohsen Mesgar (Bosch), and Heike Adel (HdM Stuttgart)). </li>
+        <li>January 2025 -- We welcome our new team members Fabio Mariani (research staff member) and Sabrina Achberger (team assistant)! Also, we met at Café Dreizehn for our New Years's brunch - which was really nice, but we forgot to take a picture.</li>
                 <li>September 30, 2024 -- Our paper <strong>THAVQA: a German task-oriented VQA dataset annotated with human visual attention</strong> (by Moritz Kronberger and Viviana Ventura) has been accepted at <strong>Clic-IT 2024</strong>. Congrats, Moritz and Viviana!</li>
         <li>September 20, 2024 -- Our paper <a href="https://aclanthology.org/2024.emnlp-main.153/">QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios</a> (by Timo Schrader, Lukas Lange, Simon Razniewksi, and Annemarie Friedrich) has been accepted to appear at <strong>EMNLP 2024</strong> (main conference). Congrats, Timo!</li>
         <li>August, 9, 2024 -- Our paper on <a href="https://arxiv.org/abs/2407.15736">OMoS-QA: A Dataset for Cross-Lingual Extractive Question Answering in a German Migration Context</a> has been accepted to <a href="https://konvens-2024.univie.ac.at/">KONVENS 2024</a>. The work results from Steffen's Master thesis that was a cooperation with <a href="https://tuerantuer.de/digitalfabrik/">Tür an Tür Digitalfabrik gGmbH</a> - well done, Steffen!</a></li>
