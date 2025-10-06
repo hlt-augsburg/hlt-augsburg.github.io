@@ -28,15 +28,6 @@
     affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
--
-    name: 'Jakob Prange'
-    email: 'firstname dot lastname at uni minus a dot de'
-    position: 'PostDoc'
-    pic: "jakob"
-    website: 'Personal Website'
-    websiteurl: 'https://jakpra.github.io/'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
     name: 'Fabio Mariani'
@@ -48,7 +39,36 @@
     affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
+-
+    name: 'Hanna Schmück'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'Researcher'
+    pic: "hanna"
+    website: 'Personal Website'
+    websiteurl: 'https://hannaschmueck.github.io/'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
+-
+    name: 'Sabrina Achberger'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'Team Assistant'
+    pic: "achberger"
+    website: ''
+    websiteurl: 'tba'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
+-
+    name: 'Georg Hofmann'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'PhD Student'
+    pic: "tba"
+    website: 'Team Website'
+    websiteurl: 'tba'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+    
 -
     name: 'Veronika Gacia'
     email: ''
@@ -58,7 +78,6 @@
     websiteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/germanistik/deutsche-sprachwissenschaft/team/veronika-gacia/'
     affiliation: 'German Linguistics <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/germanistik/deutsche-sprachwissenschaft/team/veronika-gacia/'
-
 
 -
     name: 'Christian Fäth'
@@ -152,17 +171,6 @@
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
-    name: 'Sabrina Achberger'
-    email: 'firstname dot lastname at uni minus a dot de'
-    position: 'Team Assistant'
-    pic: "achberger"
-    website: ''
-    websiteurl: 'tba'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
-
-
--
     name: 'Stefan Radle'
     email: 'firstname dot lastname at uni minus a dot de'
     position: 'Student Assistant'
@@ -172,27 +180,10 @@
     affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
 
--
-    name: 'Georg Hofmann'
-    email: 'firstname dot lastname at uni minus a dot de'
-    position: 'Master Student'
-    pic: "tba"
-    website: 'Team Website'
-    websiteurl: 'tba'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
--
-    name: 'Hanna Schmück'
-    email: 'firstname dot lastname at uni minus a dot de'
-    position: 'Researcher'
-    pic: "hanna"
-    website: 'Personal Website'
-    websiteurl: 'https://hannaschmueck.github.io/'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
--
+
+
     
 
     
