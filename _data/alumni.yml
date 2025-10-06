@@ -28,3 +28,12 @@
     affiliation: 'Evangelisch-Theologischen Fakultät Bonn'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
+-
+    name: 'Jakob Prange'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'PostDoc'
+    pic: "jakob"
+    website: 'Personal Website'
+    websiteurl: 'https://jakpra.github.io/'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
