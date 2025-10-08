@@ -20,12 +20,6 @@ permalink: /nlp-seminar-ws2526
                 </thead>
                 <tbody>
                     <tr>
-                        <td>08.10.2025</td>
-                        <td>HLT Group</td>
-                        <td>DH Day</td>
-                        <td>Y 2006 (Alter Postweg 116)</td>
-                    </tr>
-                    <tr>
                         <td>tba</td>
                         <td>tba</td>
                         <td>Winter Semester Kickoff</td>
