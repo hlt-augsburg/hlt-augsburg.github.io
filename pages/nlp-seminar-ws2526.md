@@ -21,9 +21,9 @@ permalink: /nlp-seminar-ws2526
                 <tbody>
                     <tr>
                         <td>22.10.2025 <b>5.30pm</b></td>
-                        <td>Emilie Pagé-Perron, PhD ( (Archaeological Data Service, Department of Archaeology, University of York)</td>
-                        <td> (Archaeological Data Service, Department of Archaeology, University of York) </td>
-                        <td>ILKA Talk</td>
+                        <td>Maxim Ionov (University of Zaragova)</td>
+                        <td>Linking and Querying Linguistic Data: Addressing Variability in Linguistic Annotation </td>
+                        <td>ILKA Talk, D-4056</td>
                     </tr>
                     <tr>
                         <td>29.10.2025, 10am</td>
@@ -38,6 +38,12 @@ permalink: /nlp-seminar-ws2526
                         <td>BCM</td>
                     </tr>
                      <tr>
+                        <td>12.11.2025 <b>5.30pm</b></td>
+                        <td>Emilie Pagé-Perron, PhD ( (Archaeological Data Service, Department of Archaeology, University of York)</td>
+                        <td> (Archaeological Data Service, Department of Archaeology, University of York) </td>
+                        <td>ILKA Talk</td>
+                    </tr>
+                     <tr>
                         <td>13.11.2025 (Thursday evening!)</td>
                         <td>Marc Schulder (Universität Hamburg)</td>
                         <td>AI Meets Human Data Colloquium: Computational Sign Linguistics: A Sign Language Perspective
@@ -47,8 +53,8 @@ permalink: /nlp-seminar-ws2526
                     </tr>
                      <tr>
                         <td>19.11.2025</td>
-                        <td>tba</td>
-                        <td>tbd</td>
+                        <td>Georg Hofmann</td>
+                        <td>Master Thesis Colloquium</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr>
