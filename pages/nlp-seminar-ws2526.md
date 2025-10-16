@@ -54,7 +54,7 @@ permalink: /nlp-seminar-ws2526
                      <tr>
                         <td>19.11.2025</td>
                         <td>Georg Hofmann</td>
-                        <td>Master Thesis Colloquium</td>
+                        <td>Confidence Estimation for Extreme Multi-Label Text Classification using Large Language Models (Master Thesis Colloquium)</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr>
