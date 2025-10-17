@@ -101,8 +101,8 @@ permalink: /nlp-seminar-ws2526
                     </tr>
                     <tr>
                         <td>28.1.2026</td>
-                        <td>tbd</td>
-                        <td>tbd </td>
+                        <td>Stefan Grünewald (Bosch Center for Artificial Intelligence, Stuttgart)</td>
+                        <td>Syntactic Dependencies and Beyond: Robust Neural Architectures and Quality-Enhanced Corpora for Structured Prediction in NLP </td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr>
