@@ -59,8 +59,8 @@ permalink: /nlp-seminar-ws2526
                     </tr>
                     <tr>
                         <td>26.11.2025</td>
-                        <td>tba</td>
-                        <td>tbd</td>
+                        <td>Georg, Fabio, Christian, Anne</td>
+                        <td>More Conference Recaps (ACL and KONVENS)</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr>
