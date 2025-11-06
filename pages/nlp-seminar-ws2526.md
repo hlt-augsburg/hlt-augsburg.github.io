@@ -95,7 +95,7 @@ permalink: /nlp-seminar-ws2526
                     </tr>
                     <tr>
                         <td>21.1.2026</td>
-                        <td>tbd</td>
+                        <td>Lynn Greschner (Uni Bamberg)</td>
                         <td>tbd </td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
