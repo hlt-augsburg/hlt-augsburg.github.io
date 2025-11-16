@@ -96,7 +96,7 @@ permalink: /nlp-seminar-ws2526
                     <tr>
                         <td>21.1.2026</td>
                         <td>Lynn Greschner (Uni Bamberg)</td>
-                        <td>tbd </td>
+                        <td>Subjective Argument Evalution with Discrete Emotions and Appraisals</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr>
