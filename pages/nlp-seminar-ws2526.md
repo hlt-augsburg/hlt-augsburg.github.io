@@ -70,9 +70,9 @@ permalink: /nlp-seminar-ws2526
                         <td>L1 3008</td>
                     </tr>
                     <tr>
-                        <td>10.12.2025</td>
-                        <td>tbd</td>
-                        <td>tbd </td>
+                        <td>08.12.2025 !!</td>
+                        <td>Samuel Schmück</td>
+                        <td>Working title: Applications of Language Technologies in Healthcare</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                      <tr>
@@ -89,8 +89,8 @@ permalink: /nlp-seminar-ws2526
                     </tr>
                     <tr>
                         <td>14.1.2026</td>
-                        <td>tbd</td>
-                        <td>tbd </td>
+                        <td>Elias Kohout</td>
+                        <td>Automatic Situation Entity Segmentation in current and historic English</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr>
