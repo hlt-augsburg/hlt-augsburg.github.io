@@ -89,8 +89,8 @@ permalink: /nlp-seminar-ws2526
                     </tr>
                     <tr>
                         <td>14.1.2026</td>
-                        <td>Elias Kohout</td>
-                        <td>Automatic Situation Entity Segmentation in current and historic English</td>
+                        <td>Elias Kohout and Andrea Krestakova</td>
+                        <td>Automatic Situation Entity Segmentation in current and historic English and Situation Entity Annotation Using LLMs</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr>
