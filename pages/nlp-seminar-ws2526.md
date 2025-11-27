@@ -77,8 +77,8 @@ permalink: /nlp-seminar-ws2526
                     </tr>
                      <tr>
                         <td>17.12.2025</td> <!--Anne cannot make it-->
-                       <td>tbd</td>
-                        <td>tbd </td>
+                       <td>Lukas Kleybolte, Viviana Ventura</td>
+                        <td>PhD progress report on graph-QA in StackOverflow </td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr> <!-- in this week: likely visit of Roman Klinger (AI Meets Human Data Colloquium) -->
