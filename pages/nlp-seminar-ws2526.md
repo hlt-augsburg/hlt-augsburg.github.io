@@ -75,22 +75,22 @@ permalink: /nlp-seminar-ws2526
                         <td>Working title: Applications of Language Technologies in Healthcare</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
-                     <tr>
-                        <td>17.12.2025</td> <!--Anne cannot make it-->
-                       <td>Lukas Kleybolte, Viviana Ventura</td>
-                        <td>PhD progress report on graph-QA in StackOverflow </td>
-                        <td>BCM preferred, Zoom possible</td>
-                    </tr>
-                    <tr> <!-- in this week: likely visit of Roman Klinger (AI Meets Human Data Colloquium) -->
+                    <tr>
                         <td>7.1.2026</td>
                         <td></td>
                         <td>New Year's Brunch</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr>
-                        <td>14.1.2026</td>
+                        <td>14.1.2026, 10.00-10.45</td>
                         <td>Elias Kohout and Andrea Krestakova</td>
                         <td>Automatic Situation Entity Segmentation in current and historic English and Situation Entity Annotation Using LLMs</td>
+                        <td>BCM preferred, Zoom possible</td>
+                    </tr>
+                    <tr>
+                        <td>14.1.2026, 11.00-12.00</td>
+                        <td>Pierre Lison (Norwegian Computing Center)</td>
+                        <td>tbd</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr>
@@ -110,6 +110,12 @@ permalink: /nlp-seminar-ws2526
                         <td>Stephanie Evert (FAU Erlangen)</td>
                         <td>ILKA Talk: Studying linguistic variation with Geometric Multivariate Analysis </td>
                         <td>tba</td>
+                    </tr>
+                     <tr>
+                        <td>11.02.2025</td>
+                       <td>Lukas Kleybolte, Viviana Ventura</td>
+                        <td>PhD progress report on graph-QA in StackOverflow </td>
+                        <td>BCM preferred, Zoom possible</td>
                     </tr>
                 </tbody>
             </table>
