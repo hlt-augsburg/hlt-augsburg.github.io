@@ -72,7 +72,7 @@ permalink: /nlp-seminar-ws2526
                     <tr>
                         <td>08.12.2025 !!</td>
                         <td>Samuel Schmück</td>
-                        <td>Working title: Applications of Language Technologies in Healthcare</td>
+                        <td>Applications of Language Technologies in Healthcare</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr>
