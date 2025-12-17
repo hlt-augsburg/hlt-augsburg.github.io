@@ -90,7 +90,7 @@ permalink: /nlp-seminar-ws2526
                     <tr>
                         <td>14.1.2026, 11.00-12.00</td>
                         <td>Pierre Lison (Norwegian Computing Center)</td>
-                        <td>tbd</td>
+                        <td>Privacy-enhancing NLP: A primer</td>
                         <td>BCM preferred, Zoom possible</td>
                     </tr>
                     <tr>
