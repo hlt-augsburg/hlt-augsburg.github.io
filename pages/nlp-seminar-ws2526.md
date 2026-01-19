@@ -91,31 +91,31 @@ permalink: /nlp-seminar-ws2526
                         <td>14.1.2026, 11.00-12.00</td>
                         <td>Pierre Lison (Norwegian Computing Center)</td>
                         <td>Privacy-enhancing NLP: A primer</td>
-                        <td>BCM preferred, Zoom possible</td>
+                        <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
                         <td>21.1.2026</td>
                         <td>Lynn Greschner (Uni Bamberg)</td>
                         <td>Subjective Argument Evalution with Discrete Emotions and Appraisals</td>
-                        <td>BCM preferred, Zoom possible</td>
-                    </tr>
-                    <tr>
-                        <td>28.1.2026</td>
-                        <td>Stefan Grünewald (Bosch Center for Artificial Intelligence, Stuttgart)</td>
-                        <td>Syntactic Dependencies and Beyond: Robust Neural Architectures and Quality-Enhanced Corpora for Structured Prediction in NLP </td>
-                        <td>BCM preferred, Zoom possible</td>
+                        <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
                         <td>2.2.2026 (5.30pm!)</td>
                         <td>Stephanie Evert (FAU Erlangen)</td>
                         <td>ILKA Talk: Studying linguistic variation with Geometric Multivariate Analysis </td>
-                        <td>tba</td>
+                        <td>D-4056</td>
                     </tr>
                      <tr>
                         <td>11.02.2025</td>
                        <td>Lukas Kleybolte, Viviana Ventura</td>
                         <td>PhD progress report on graph-QA in StackOverflow </td>
-                        <td>BCM preferred, Zoom possible</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>5.3.2026</td>
+                        <td>Stefan Grünewald (Bosch Center for Artificial Intelligence, Stuttgart)</td>
+                        <td>Syntactic Dependencies and Beyond: Robust Neural Architectures and Quality-Enhanced Corpora for Structured Prediction in NLP </td>
+                        <td>1024 BCM and Zoom</td>
                     </tr>
                 </tbody>
             </table>
