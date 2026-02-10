@@ -19,8 +19,14 @@ permalink: /nlp-seminar-ss26
                     </tr>
                 </thead>
                 <tbody>
+                  <tr>
+                        <td>15.4.2026</td>
+                        <td>Lynn Greschner (Uni Bamberg)</td>
+                        <td>Subjective Argument Evalution with Discrete Emotions and Appraisals</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
                     <tr>
-                        <td>tbd <b>5.30pm</b></td>
+                        <td>tbd</td>
                         <td>Heike da Silva Cardoso (University Library Augsburg)</td>
                         <td>tbd</td>
                         <td>tba</td>

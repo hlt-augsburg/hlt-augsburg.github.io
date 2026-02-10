@@ -111,12 +111,6 @@ permalink: /nlp-seminar-ws2526
                         <td>Syntactic Dependencies and Beyond: Robust Neural Architectures and Quality-Enhanced Corpora for Structured Prediction in NLP </td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
-                     <tr>
-                        <td>tbd</td>
-                        <td>Lynn Greschner (Uni Bamberg)</td>
-                        <td>Subjective Argument Evalution with Discrete Emotions and Appraisals</td>
-                        <td>1024 BCM and Zoom</td>
-                    </tr>
                 </tbody>
             </table>
         </div>
