@@ -28,7 +28,7 @@ permalink: /nlp-seminar-ss26
                     <tr>
                         <td>6.5.2026</td>
                         <td>Heike da Silva Cardoso (University Library Augsburg)</td>
-                        <td>tSaiLR, AI supported Systematic Literature Reviewsbd</td>
+                        <td>SaiLR, AI supported Systematic Literature Reviews</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                    
