@@ -180,7 +180,15 @@
     affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
 
-
+-
+    name: 'Xaver Krückl'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'Researcher'
+    pic: "xaver"
+    website: ''
+    websiteurl: 'tba'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 
 
