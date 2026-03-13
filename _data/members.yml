@@ -27,8 +27,6 @@
     websiteurl: 'https://annefried.github.io'
     affiliation: Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
-
-
 -
     name: 'Fabio Mariani'
     email: 'firstname dot lastname at uni minus a dot de'
@@ -46,7 +44,7 @@
     pic: "hanna"
     website: 'Personal Website'
     websiteurl: 'https://hannaschmueck.github.io/'
-    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
+    affiliation: 'Chair of Computational Linguistics <br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
@@ -56,7 +54,7 @@
     pic: "achberger"
     website: ''
     websiteurl: 'tba'
-    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg''
+    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
@@ -153,11 +151,3 @@
     websiteurl: 'https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/felser-jenny/'
     affiliation: 'Hochschule Mittweida <br/> Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
-
-
-
-    
-
-    
-
-
