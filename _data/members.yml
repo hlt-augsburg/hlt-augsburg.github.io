@@ -5,7 +5,7 @@
     pic: "christian"
     website: 'Personal Website'
     websiteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/team/prof-dr-chiarcos/'
-    affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
+    affiliation: 'Chair of Applied Computational Linguistics <br/> @ PhilHist, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
 
 -
@@ -25,7 +25,7 @@
     pic: "anne"
     website: 'Personal Website'
     websiteurl: 'https://annefried.github.io'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    affiliation: Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 
@@ -36,7 +36,7 @@
     pic: "fabio"
     website: 'Personal Website'
     websiteurl: 'tba'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    affiliation: Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
@@ -46,7 +46,7 @@
     pic: "hanna"
     website: 'Personal Website'
     websiteurl: 'https://hannaschmueck.github.io/'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
@@ -56,7 +56,7 @@
     pic: "achberger"
     website: ''
     websiteurl: 'tba'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg''
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
@@ -66,7 +66,7 @@
     pic: "georg"
     website: 'Team Website'
     websiteurl: 'tba'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
     
 -
@@ -76,7 +76,7 @@
     pic: "veronika"
     website: 'Personal Website'
     websiteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/germanistik/deutsche-sprachwissenschaft/team/veronika-gacia/'
-    affiliation: 'German Linguistics <br/> @ University of Augsburg'
+    affiliation: 'German Linguistics <br/> @ PhilHist, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/germanistik/deutsche-sprachwissenschaft/team/veronika-gacia/'
 
 
@@ -87,7 +87,7 @@
     pic: "timo"
     website: ''
     websiteurl: ''
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg <br/> Bosch Center for Artificial Intelligence'
+    affiliation: Chair of Computational Linguistics<br/> @ FAI, University of Augsburg <br/> Bosch Center for Artificial Intelligence'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
@@ -118,7 +118,7 @@
     pic: "xaver"
     website: ''
     websiteurl: 'tba'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 
@@ -130,7 +130,7 @@
     pic: "wei_zhou"
     website: ''
     websiteurl: ''
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg <br/> Bosch Center for Artificial Intelligence'
+    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg <br/> Bosch Center for Artificial Intelligence'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
@@ -140,7 +140,7 @@
     pic: "valentin_knappich"
     website: ''
     websiteurl: ''
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg <br/> Bosch Center for Artificial Intelligence'
+    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg <br/> Bosch Center for Artificial Intelligence'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 
@@ -151,18 +151,8 @@
     pic: "jenny"
     website: 'Personal Website'
     websiteurl: 'https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/felser-jenny/'
-    affiliation: 'Hochschule Mittweida <br/> Natural Language Understanding Group <br/> @ University of Augsburg'
+    affiliation: 'Hochschule Mittweida <br/> Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
-
--
-    name: 'Stefan Radle'
-    email: 'firstname dot lastname at uni minus a dot de'
-    position: 'Student Assistant'
-    pic: "tba"
-    website: ''
-    websiteurl: ''
-    affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
 
 
 

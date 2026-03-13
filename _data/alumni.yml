@@ -5,7 +5,7 @@
     pic: "jakob"
     website: 'Personal Website'
     websiteurl: 'https://jakpra.github.io/'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
@@ -37,3 +37,14 @@
     websiteurl: ''
     affiliation: 'Frauhnhofer IIS, Erlangen'
     instituteurl: 'https://www.iis.fraunhofer.de/'
+
+    -
+    name: 'Stefan Radle'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'Student Assistant'
+    pic: "tba"
+    website: ''
+    websiteurl: ''
+    affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
+
