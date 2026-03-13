@@ -30,7 +30,7 @@
 -
     name: 'Fabio Mariani'
     email: 'firstname dot lastname at uni minus a dot de'
-    position: 'Researcher'
+    position: 'PostDoc'
     pic: "fabio"
     website: 'Personal Website'
     websiteurl: 'tba'
@@ -40,7 +40,7 @@
 -
     name: 'Hanna Schmück'
     email: 'firstname dot lastname at uni minus a dot de'
-    position: 'Researcher'
+    position: 'PostDoc'
     pic: "hanna"
     website: 'Personal Website'
     websiteurl: 'https://hannaschmueck.github.io/'
@@ -112,7 +112,7 @@
 -
     name: 'Xaver Krückl'
     email: 'firstname dot lastname at uni minus a dot de'
-    position: 'Researcher'
+    position: 'PhD Student'
     pic: "xaver"
     website: ''
     websiteurl: 'tba'
