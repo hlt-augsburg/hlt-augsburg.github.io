@@ -51,7 +51,3 @@ permalink: /news-archive
     <li>October 4-5, 2023 -- Our Human Language Technology @ Augsburg Kickoff Workshop took place at Augsburg University.</li>
     <li>July 2023 -- <a href="https://aclanthology.org/2023.codi-1.1/">Paper</a> on <strong>Argumentative Zoning</strong>
      in the materials science domain accepted to CODI@ ACL 2023. Congrats, Timo and Sophie!</li>
-</ul>
-
-    </div>
-</section>
