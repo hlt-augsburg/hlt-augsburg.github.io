@@ -79,26 +79,6 @@
     affiliation: 'German Linguistics <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/germanistik/deutsche-sprachwissenschaft/team/veronika-gacia/'
 
--
-    name: 'Christian Fäth'
-    email: 'firstname dot lastname at uni minus a dot de'
-    position: 'PhD student'
-    pic: "christian_f"
-    website: ''
-    websiteurl: ''
-    affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
-
--
-    name: 'MD Mahmud Uz Zaman'
-    email: 'md dot zaman at uni minus a dot de'
-    position: 'PhD student'
-    pic: "tba"
-    website: ''
-    websiteurl: ''
-    affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
-
 
 -
     name: 'Timo Schrader'
@@ -121,6 +101,29 @@
     instituteurl: 'https://www.tha.de/'
 
 -
+    name: 'Lukas Kleybolte'
+    email: 'lukas (dot) kleybolte (at) tha (dot) de'
+    position: 'PhD Student'
+    pic: "lukas_kleybolte"
+    website: ''
+    websiteurl: ''
+    affiliation: 'Technische Hochschule Augsburg'
+    instituteurl: 'https://www.tha.de/'
+
+
+-
+    name: 'Xaver Krückl'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'Researcher'
+    pic: "xaver"
+    website: ''
+    websiteurl: 'tba'
+    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
+
+
+-
     name: 'Wei Zhou'
     email: 'tba'
     position: 'Phd Student'
@@ -140,25 +143,6 @@
     affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg <br/> Bosch Center for Artificial Intelligence'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
--
-    name: 'Zahra Kolagar'
-    email: 'tba'
-    position: 'PhD Student'
-    pic: "zahra_kolagar"
-    website: ''
-    websiteurl: ''
-    affiliation: 'Frauhnhofer IIS, Erlangen'
-    instituteurl: 'https://www.iis.fraunhofer.de/'
-
--
-    name: 'Lukas Kleybolte'
-    email: 'lukas (dot) kleybolte (at) tha (dot) de'
-    position: 'PhD Student'
-    pic: "lukas_kleybolte"
-    website: ''
-    websiteurl: ''
-    affiliation: 'Technische Hochschule Augsburg'
-    instituteurl: 'https://www.tha.de/'
 
 -
     name: 'Jenny Maria Felser'
@@ -179,16 +163,6 @@
     websiteurl: ''
     affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
-
--
-    name: 'Xaver Krückl'
-    email: 'firstname dot lastname at uni minus a dot de'
-    position: 'Researcher'
-    pic: "xaver"
-    website: ''
-    websiteurl: 'tba'
-    affiliation: 'Natural Language Understanding Group <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 
 
