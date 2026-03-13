@@ -59,17 +59,6 @@
     affiliation: 'Chair of Computational Linguistics <br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
-
--
-    name: 'Georg Hofmann'
-    email: 'firstname dot lastname at uni minus a dot de'
-    position: 'PhD Student'
-    pic: "georg"
-    website: 'Team Website'
-    websiteurl: 'tba'
-    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
-    
 -
     name: 'Veronika Gacia'
     email: ''
@@ -80,6 +69,16 @@
     affiliation: 'German Linguistics <br/> @ PhilHist, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/germanistik/deutsche-sprachwissenschaft/team/veronika-gacia/'
 
+
+-
+    name: 'Georg Hofmann'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'PhD Student'
+    pic: "georg"
+    website: 'Team Website'
+    websiteurl: 'tba'
+    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
     name: 'Timo Schrader'
