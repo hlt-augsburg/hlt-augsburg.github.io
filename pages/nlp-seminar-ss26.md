@@ -26,13 +26,13 @@ permalink: /nlp-seminar-ss26
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
-                        <td>22.5.2026</td>
+                        <td>22.4.2026</td>
                         <td>no seminar !</td>
                         <td>(maybe reading group, Anne not available)</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
-                        <td>29.5.2026</td>
+                        <td>29.4.2026</td>
                         <td>tbd</td>
                         <td>tbd</td>
                         <td>1024 BCM and Zoom</td>
@@ -45,8 +45,8 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>13.5.2026</td>
-                        <td>tbd</td>
-                        <td>tbd</td>
+                        <td>Johann Frei (Chair of IT Infrastructures in Translational Medicine, University of Augsburg)</td>
+                        <td>Low-resource-aware Natural Language Processing in German Medical Texts</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
