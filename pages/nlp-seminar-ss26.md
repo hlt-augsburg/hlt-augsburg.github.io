@@ -26,12 +26,83 @@ permalink: /nlp-seminar-ss26
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
+                        <td>22.5.2026</td>
+                        <td>no seminar !</td>
+                        <td>(maybe reading group, Anne not available)</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>29.5.2026</td>
+                        <td>tbd</td>
+                        <td>tbd</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                     <tr>
                         <td>6.5.2026</td>
                         <td>Heike da Silva Cardoso (University Library Augsburg)</td>
                         <td>SaiLR, AI supported Systematic Literature Reviews</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
-                   
+                    <tr>
+                        <td>13.5.2026</td>
+                        <td>tbd</td>
+                        <td>tbd</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>20.5.2026</td>
+                        <td>tbd</td>
+                        <td>tbd</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>27.5.2026</td> <!-- Hanna traveling, school holidays -->
+                        <td>tbd</td>
+                        <td>tbd</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>3.6.2026</td>
+                        <td>tbd</td>
+                        <td>tbd</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>10.6.2026</td> 
+                        <td>no seminar</td>
+                        <td>(just reading group? Anne traveling)</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>17.6.2026</td> 
+                        <td>tbd</td>
+                        <td>tbd</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>24.6.2026</td> 
+                        <td>tbd</td>
+                        <td>tbd</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>1.7.2026</td> 
+                        <td>tbd</td>
+                        <td>tbd</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>8.7.2026</td> 
+                        <td>tbd</td>
+                        <td>tbd</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>15.7.2026</td> 
+                        <td>End-of-semester Hike (Stadtwald)</td>
+                        <td>Lunch at Biergarten?</td>
+                        <td>Start: BCM entrance, 10am</td>
+                    </tr>
                 </tbody>
             </table>
         </div>
