@@ -81,16 +81,6 @@
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
-    name: 'Timo Schrader'
-    email: 'firstname dot lastname at de dot bosch dot com'
-    position: 'PhD Student'
-    pic: "timo"
-    website: ''
-    websiteurl: ''
-    affiliation: Chair of Computational Linguistics<br/> @ FAI, University of Augsburg <br/> Bosch Center for Artificial Intelligence'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
-
--
     name: 'Viviana Ventura'
     email: 'tba'
     position: 'PhD Student'
@@ -121,6 +111,15 @@
     affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
+-
+    name: 'Timo Schrader'
+    email: 'firstname dot lastname at de dot bosch dot com'
+    position: 'PhD Student'
+    pic: "timo"
+    website: ''
+    websiteurl: ''
+    affiliation: Chair of Computational Linguistics<br/> @ FAI, University of Augsburg <br/> Bosch Center for Artificial Intelligence'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 
 -
