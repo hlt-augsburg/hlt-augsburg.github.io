@@ -27,6 +27,18 @@
     websiteurl: 'https://annefried.github.io'
     affiliation: Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
+-
+    name: 'Sabrina Achberger'
+    email: 'firstname dot lastname at uni minus a dot de'
+    position: 'Team Assistant'
+    pic: "achberger"
+    website: ''
+    websiteurl: 'tba'
+    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
+    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
+
+
 -
     name: 'Fabio Mariani'
     email: 'firstname dot lastname at uni minus a dot de'
@@ -47,15 +59,6 @@
     affiliation: 'Chair of Computational Linguistics <br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
--
-    name: 'Sabrina Achberger'
-    email: 'firstname dot lastname at uni minus a dot de'
-    position: 'Team Assistant'
-    pic: "achberger"
-    website: ''
-    websiteurl: 'tba'
-    affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
 -
     name: 'Georg Hofmann'
