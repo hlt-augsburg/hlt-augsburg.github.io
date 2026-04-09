@@ -39,12 +39,5 @@
     instituteurl: 'https://www.iis.fraunhofer.de/'
 
 -
-    name: 'Stefan Radle'
-    email: 'firstname dot lastname at uni minus a dot de'
-    position: 'Student Assistant'
-    pic: "tba"
-    website: ''
-    websiteurl: ''
-    affiliation: 'Chair of Applied Computational Linguistics <br/> @ University of Augsburg'
-    instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/philhist/professuren/angewandte-computerlinguistik/'
+    
 
