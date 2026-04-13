@@ -39,8 +39,8 @@ permalink: /nlp-seminar-ss26
                     </tr>
                      <tr>
                         <td>6.5.2026</td>
-                        <td>Heike da Silva Cardoso (University Library Augsburg)</td>
-                        <td>SaiLR, AI supported Systematic Literature Reviews</td>
+                        <td>no seminar !</td>
+                        <td>(maybe reading group, Anne not available)</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
@@ -75,8 +75,8 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>17.6.2026</td> 
-                        <td>tbd</td>
-                        <td>tbd</td>
+                       <td>Heike da Silva Cardoso (University Library Augsburg)</td>
+                        <td>SaiLR, AI supported Systematic Literature Reviews</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
