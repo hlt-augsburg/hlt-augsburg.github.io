@@ -32,10 +32,10 @@ permalink: /nlp-seminar-ss26
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
-                        <td>29.4.2026</td>
-                        <td>tbd</td>
-                        <td>tbd</td>
-                        <td>1024 BCM and Zoom</td>
+                        <td>27.4.2026 (Monday!) 4pm</td>
+                        <td>Roman Klinger (Uni Bamberg)</td>
+                        <td>AI Meets Human Data Colloquium: Appraisal Variables as Emotion Models in Natural Language Processing</td>
+                        <td>N 1054</td>
                     </tr>
                      <tr>
                         <td>6.5.2026</td>
@@ -62,10 +62,10 @@ permalink: /nlp-seminar-ss26
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
-                        <td>3.6.2026</td>
-                        <td>tbd</td>
-                        <td>tbd</td>
-                        <td>1024 BCM and Zoom</td>
+                        <td>3.6.2026 5.30-7pm</td>
+                        <td>Barbara Plank (LMU Munich)</td>
+                        <td>AI Meets Human Data Colloquium & ILKA: Human-centered LLMs for Inclusive Language Technology</td>
+                        <td>N 2045 (Hörsaal)</td>
                     </tr>
                     <tr>
                         <td>10.6.2026</td> 
