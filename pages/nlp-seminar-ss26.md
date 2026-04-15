@@ -57,7 +57,7 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>27.5.2026</td> <!-- Hanna traveling, school holidays -->
-                        <td>tbd</td>
+                        <td>tbd</td> <!-- offered slot to Giuseppe Carenini-->
                         <td>tbd</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
