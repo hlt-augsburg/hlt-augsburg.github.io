@@ -51,13 +51,13 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>20.5.2026</td>
-                        <td>tbd</td>
-                        <td>tbd</td>
+                        <td>Malika Abitova</td>
+                        <td>Research Module (final presentation)</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
                         <td>27.5.2026</td> <!-- Hanna traveling, school holidays -->
-                        <td>tbd</td> <!-- offered slot to Giuseppe Carenini-->
+                        <td>Giuseppe Carenini</td> <!-- offered slot to Giuseppe Carenini-->
                         <td>tbd</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
@@ -81,8 +81,8 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>24.6.2026</td> 
-                        <td>tbd</td>
-                        <td>tbd</td>
+                        <td>Viviana Ventura</td>
+                        <td>Progress Report</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
