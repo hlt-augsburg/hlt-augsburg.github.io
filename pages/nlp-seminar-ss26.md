@@ -28,7 +28,7 @@ permalink: /nlp-seminar-ss26
                     <tr>
                         <td>22.4.2026</td>
                         <td>no seminar !</td>
-                        <td>(maybe reading group, Anne not available)</td>
+                        <td></td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
@@ -51,7 +51,7 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>20.5.2026</td>
-                        <td>Malika Abitova</td>
+                        <td>Malika Abitova + N.N.</td>
                         <td>Research Module (final presentation)</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
@@ -81,20 +81,20 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>24.6.2026</td> 
-                        <td>Viviana Ventura</td>
-                        <td>Progress Report</td>
+                        <td>Viviana Ventura, Jeanine Siewert</td>
+                        <td>Progress Reports</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
                         <td>1.7.2026</td> 
-                        <td>tbd</td>
-                        <td>tbd</td>
+                        <td>Andrea Krestakova, Hanna Schmück, Xaver</td>
+                        <td>Master thesis colloquium, research updates</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
                         <td>8.7.2026</td> 
-                        <td>tbd</td>
-                        <td>tbd</td>
+                        <td>Georg Hofmann, Lea Tuncer Mata, Fabio Mariani </td>
+                        <td>Research updates</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
