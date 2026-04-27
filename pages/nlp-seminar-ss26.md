@@ -82,7 +82,7 @@ permalink: /nlp-seminar-ss26
                     <tr>
                         <td>24.6.2026</td> 
                         <td>Viviana Ventura, Jeanine Siewert</td>
-                        <td>Progress Reports</td>
+                        <td>Progress Reports: A new benchmark for explicit spatial relation modeling in synthethic scene composition for multimodal grounding models (Viviana Ventura)</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
