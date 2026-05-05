@@ -69,8 +69,8 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>10.6.2026</td> 
-                        <td>no seminar</td>
-                        <td>(just reading group? Anne traveling)</td>
+                        <td>Fabio Mariani</td> <!-- Anne traveling-->
+                        <td>research updates</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
@@ -86,14 +86,14 @@ permalink: /nlp-seminar-ss26
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
-                        <td>1.7.2026</td> 
-                        <td>Andrea Krestakova, Hanna Schmück, Xaver</td>
+                        <td>1.7.2026</td> <!-- Anne and Fabio traveling-->
+                        <td>Georg Hofmann, Hanna Schmück, Xaver</td>
                         <td>Master thesis colloquium, research updates</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
                         <td>8.7.2026</td> 
-                        <td>Georg Hofmann, Lea Tuncer Mata, Fabio Mariani </td>
+                        <td>Lea Tuncer Mata, Andrea Krestakova</td>
                         <td>Research updates</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
