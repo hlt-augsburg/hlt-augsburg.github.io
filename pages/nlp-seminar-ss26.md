@@ -67,12 +67,12 @@ permalink: /nlp-seminar-ss26
                         <td>AI Meets Human Data Colloquium & ILKA: Human-centered LLMs for Inclusive Language Technology</td>
                         <td>N 2045 (Hörsaal)</td>
                     </tr>
-                    <tr>
+                    <!--tr>
                         <td>10.6.2026</td> 
-                        <td>Fabio Mariani</td> <!-- Anne traveling-->
+                        <td></td>
                         <td>research updates</td>
                         <td>1024 BCM and Zoom</td>
-                    </tr>
+                    </tr-->
                     <tr>
                         <td>17.6.2026</td> 
                        <td>Heike da Silva Cardoso (University Library Augsburg)</td>
