@@ -8,7 +8,6 @@ permalink: /nlp-seminar-ss26
             <h3>Summer Semester 2026</h3>
             Time: 10.00 - 11.30am<br/>
             Please e-mail Annemarie Friedrich (firstname dot lastname  @uni-a.de) to reserve a slot. <br/><br/>
-            <h4>Current Schedule</h4>
             <table class="table table-striped">
                 <thead>
                     <tr>
@@ -51,7 +50,7 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>20.5.2026</td>
-                        <td>Malika Abitova + N.N.</td>
+                        <td>Malika Abitova</td>
                         <td>Research Module (final presentation)</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
@@ -88,23 +87,39 @@ permalink: /nlp-seminar-ss26
                     <tr>
                         <td>1.7.2026</td> <!-- Anne and Fabio traveling-->
                         <td>Georg Hofmann, Hanna Schmück, Xaver</td>
-                        <td>Master thesis colloquium, research updates</td>
-                        <td>1024 BCM and Zoom</td>
-                    </tr>
-                    <tr>
-                        <td>8.7.2026</td> 
-                        <td>Lea Tuncer Mata, Andrea Krestakova</td>
                         <td>Research updates</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
-                        <td>15.7.2026</td> 
+                        <td>8.7.2026</td> 
+                        <td>Andrea Krestakova, Lea Tuncer Mata</td>
+                        <td>Master thesis colloquium and research updates</td>
+                        <td>1024 BCM and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>15.7.2026, 10am - 2pm</td> 
                         <td>End-of-semester Hike (Stadtwald)</td>
-                        <td>Lunch at Biergarten?</td>
+                        <td>Lunch at Biergarten</td>
                         <td>Start: BCM entrance, 10am</td>
                     </tr>
                 </tbody>
             </table>
+
+            <br/><br/><br/>
+
+            <h3>Previous Editions</h3>
+
+<a href="nlp-seminar-ws2526">Winter Semester 2025/26</a><br/>
+<a href="nlp-seminar-ss25">Summer Semester 2025</a><br/>
+<a href="nlp-seminar-ws2425">Winter Semester 2024/25</a><br/>
+<a href="nlp-seminar-ss24">Summer Semester 2024</a><br/>
+<a href="nlp-seminar-ws2425">Winter Semester 2023/24</a><br/>
+
+
+
         </div>
     </div>
 </div>
+
+
+
