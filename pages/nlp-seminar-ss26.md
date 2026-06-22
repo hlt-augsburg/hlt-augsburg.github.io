@@ -86,14 +86,14 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>1.7.2026</td> <!-- Anne and Fabio traveling-->
-                        <td>Georg Hofmann, Hanna Schmück, Xaver</td>
-                        <td>Research updates</td>
+                        <td>-</td>
+                        <td>no seminar !</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
                         <td>8.7.2026</td> 
-                        <td>Andrea Krestakova, Lea Tuncer Mata</td>
-                        <td>Master thesis colloquium and research updates</td>
+                        <td>Lea Tuncer Mata</td>
+                        <td>Master's Presentation</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
