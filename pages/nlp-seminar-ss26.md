@@ -86,8 +86,8 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>1.7.2026</td> <!-- Anne and Fabio traveling-->
-                        <td>-</td>
                         <td>no seminar !</td>
+                        <td>-</td>
                         <td>1024 BCM and Zoom</td>
                     </tr>
                     <tr>
