@@ -92,15 +92,15 @@ permalink: /nlp-seminar-ss26
                     </tr>
                     <tr>
                         <td>8.7.2026</td> 
-                        <td>Lea Tuncer Mata</td>
-                        <td>Master's Presentation</td>
-                        <td>1024 BCM and Zoom</td>
+                        <td>no seminar</td>
+                        <td></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>15.7.2026, 10am - 2pm</td> 
-                        <td>End-of-semester Hike (Stadtwald)</td>
-                        <td>Lunch at Biergarten</td>
-                        <td>Start: BCM entrance, 10am</td>
+                        <td>Paper reading + feedback</td>
+                        <td>-</td>
+                        <td>1024 BCM and zoom</td>
                     </tr>
                 </tbody>
             </table>
