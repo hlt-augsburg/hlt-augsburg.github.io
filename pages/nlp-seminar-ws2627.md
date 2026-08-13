@@ -25,7 +25,13 @@ permalink: /nlp-seminar-ws2627
 Sequencing Studies: A Modular Comparison of Information Extraction Methods (Master Thesis Kickoff)</td>
                         <td>N 2049 and Zoom</td>
                     </tr>
-                    
+                    <tr>
+                        <td>14.10.2026</td>
+                        <td>Lea Nora Avelina Tuncer Mata</td>
+                        <td>Schema-Guided Extraction of Methodological Metadata from Microbiome
+Sequencing Studies: A Modular Comparison of Information Extraction Methods (Master Thesis Kickoff)</td>
+                        <td>N 2049 and Zoom</td>
+                    </tr>   
                 </tbody>
             </table>
 
