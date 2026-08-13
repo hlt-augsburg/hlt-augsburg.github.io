@@ -28,25 +28,87 @@ Sequencing Studies: A Modular Comparison of Information Extraction Methods (Mast
                     <tr>
                         <td>21.10.2026</td>
                         <td></td>
-                        <td>
-</td>
                         <td></td>
-                    </tr>  <tr>
+                        <td></td>
+                    </tr>  
+                    <tr>
                         <td>28.10.2026</td>
                         <td></td>
-                        <td></tr>  <tr>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                    <tr>
                         <td>04.11.2026</td>
                         <td></td>
-                        <td>
-</td>
-                        <td></td>   <tr>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                    <tr>
                         <td>11.11.2026</td>
                         <td></td>
-                        <td>
-                    </tr>   <tr>
-                        <td>18.11.2026</td>
                         <td></td>
-                        <td>    
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>21.10.2026</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>28.10.2026</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>04.11.2026</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>11.11.2026</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>04.11.2026</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>11.11.2026</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>21.10.2026</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>28.10.2026</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>04.11.2026</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                    <tr>
+                        <td>11.11.2026</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>  
                 </tbody>
             </table>
 
