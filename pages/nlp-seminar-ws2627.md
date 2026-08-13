@@ -26,7 +26,7 @@ Sequencing Studies: A Modular Comparison of Information Extraction Methods (Mast
                         <td>N 2049 and Zoom</td>
                     </tr>
                     <tr>
-                        <td>14.10.2026</td>
+                        <td>21.10.2026</td>
                         <td></td>
                         <td>
 </td>
