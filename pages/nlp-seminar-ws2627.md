@@ -29,7 +29,7 @@ Sequencing Studies: A Modular Comparison of Information Extraction Methods (Mast
                         <td>14.10.2026</td>
                         <td></td>
                         <td>
-Sequencing Studies: A Modular Comparison of Information Extraction Methods (Master Thesis Kickoff)</td>
+</td>
                         <td>N 2049 and Zoom</td>
                     </tr>   
                 </tbody>
