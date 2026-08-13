@@ -30,7 +30,7 @@ Sequencing Studies: A Modular Comparison of Information Extraction Methods (Mast
                         <td></td>
                         <td>
 </td>
-                        <td>N 2049 and Zoom</td>
+                        <td></td>
                     </tr>   
                 </tbody>
             </table>
