@@ -50,65 +50,72 @@ Sequencing Studies: A Modular Comparison of Information Extraction Methods (Mast
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>21.10.2026</td>
+                        <td>18.11.2026</td>
                         <td></td>
                         <td></td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>28.10.2026</td>
+                        <td>25.11.2026</td>
                         <td></td>
                         <td></td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>04.11.2026</td>
+                        <td>02.12.2026</td>
                         <td></td>
                         <td></td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>11.11.2026</td>
+                        <td>09.12.2026</td>
                         <td></td>
                         <td></td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>04.11.2026</td>
+                        <td>16.12.2026</td>
                         <td></td>
                         <td></td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>11.11.2026</td>
+                        <td>23.12.2026</td>
                         <td></td>
                         <td></td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>21.10.2026</td>
+                        <td>30.12.2026</td>
                         <td></td>
                         <td></td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>28.10.2026</td>
+                        <td>13.01.2027</td>
                         <td></td>
                         <td></td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>04.11.2026</td>
+                        <td>20.01.2027</td>
                         <td></td>
                         <td></td>
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>11.11.2026</td>
+                        <td>27.01.2027</td>
                         <td></td>
                         <td></td>
                         <td></td>
                     </tr>  
+                    <tr>
+                        <td>03.02.2027</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>  
+                   <tr> 
                 </tbody>
             </table>
 
