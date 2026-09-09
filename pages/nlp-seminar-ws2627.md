@@ -9,6 +9,7 @@ permalink: /nlp-seminar-ws2627
             <h3>Winter Semester 2026/27</h3>
             Time: Wednesdays 10.00 - 11.30am<br/>
             Please e-mail Annemarie Friedrich (firstname dot lastname  @uni-a.de) to reserve a slot. <br/><br/>
+            
             <table class="table table-striped">
                 <thead>
                     <tr>
@@ -109,7 +110,6 @@ permalink: /nlp-seminar-ws2627
                         <td></td>
                         <td></td>
                     </tr>  
-                   <tr> 
                 </tbody>
             </table>
             <h2>Previous Editions</h2>
