@@ -27,9 +27,9 @@ Sequencing Studies: A Modular Comparison of Information Extraction Methods (Mast
                     </tr>
                     <tr>
                         <td>21.10.2026</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Alina Dichtl</td>
+                        <td>German Telicity: An Eye Tracking Study</td>
+                        <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>28.10.2026</td>
@@ -86,12 +86,6 @@ Sequencing Studies: A Modular Comparison of Information Extraction Methods (Mast
                         <td></td>
                     </tr>  
                     <tr>
-                        <td>30.12.2026</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>  
-                    <tr>
                         <td>13.01.2027</td>
                         <td></td>
                         <td></td>
@@ -135,6 +129,3 @@ Sequencing Studies: A Modular Comparison of Information Extraction Methods (Mast
         </div>
     </div>
 </div>
-
-
-
