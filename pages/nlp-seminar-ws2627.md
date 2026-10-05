@@ -40,9 +40,9 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>04.11.2026</td>
+                        <td>Michael Hedderich</td>
                         <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>11.11.2026</td>
