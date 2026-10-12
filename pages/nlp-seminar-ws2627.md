@@ -40,7 +40,7 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>04.11.2026</td>
-                        <td>Michael Hedderich</td>
+                        <td>Michael Hedderich (LMU Munich)</td>
                         <td>TBA</td>
                         <td>N 2049 and Zoom</td>
                     </tr>  
@@ -76,9 +76,9 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>16.12.2026</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Timo Schrader</td>
+                        <td>The Canonical Order Problem: When Large Language Models Are Unreliable Knowledge Bases for Multi-Valued Relations.</td>
+                        <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>23.12.2026</td>
@@ -94,9 +94,9 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>20.01.2027</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Manfred Stede (University of Potsdam)</td>
+                        <td>Alignment of semi-parallel text</td>
+                        <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>27.01.2027</td>
