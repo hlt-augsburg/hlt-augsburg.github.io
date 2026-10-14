@@ -22,8 +22,8 @@ permalink: /nlp-seminar-ws2627
                 <tbody>
                   <tr>
                         <td>14.10.2026</td>
-                        <td>Lea Nora Avelina Tuncer Mata</td>
-                        <td>Schema-Guided Extraction of Methodological Metadata from Microbiome Sequencing Studies: A Modular Comparison of Information Extraction Methods (Master Thesis Kickoff)</td>
+                        <td>Georg Hofmann</td>
+                        <td>Neural encoders and LLM-based approaches to multi-label classification in historical studies</td>
                         <td>N 2049 and Zoom</td>
                     </tr>
                     <tr>
@@ -46,9 +46,9 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>11.11.2026</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Lea Nora Avelina Tuncer Mata</td>
+                        <td>Schema-Guided Extraction of Methodological Metadata from Microbiome Sequencing Studies: A Modular Comparison of Information Extraction Methods (Master Thesis Kickoff)</td>
+                        <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>18.11.2026</td>
