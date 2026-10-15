@@ -34,8 +34,8 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>28.10.2026</td>
-                        <td>Muhammad Daniel Bin Mohd Khir | Alina Dichtl</td>
-                        <td>NSA-TrOCR: Sparse Cross-Line Attention for Historical Handwritten Text Recognition | German Telicity: An Eye Tracking Study</td>
+                        <td>Muhammad Daniel Bin Mohd Khir | </br>Alina Dichtl</td>
+                        <td>NSA-TrOCR: Sparse Cross-Line Attention for Historical Handwritten Text Recognition | </br>German Telicity: An Eye Tracking Study</td>
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
