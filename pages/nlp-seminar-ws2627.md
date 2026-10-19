@@ -54,7 +54,7 @@ permalink: /nlp-seminar-ws2627
                         <td>18.11.2026</td>
                         <td>Alina Dichtl</td>
                         <td>German Telicity: An Eye Tracking Study</td>
-                        <td></td>
+                        <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>25.11.2026</td>
