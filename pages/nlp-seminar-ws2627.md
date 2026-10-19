@@ -34,8 +34,8 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>28.10.2026</td>
-                        <td>Muhammad Daniel Bin Mohd Khir</td>
-                        <td>NSA-TrOCR: Sparse Cross-Line Attention for Historical Handwritten Text Recognition </td>
+                        <td>Muhammad Daniel Bin Mohd Khir & Fabio Mariani</td>
+                        <td>NSA-TrOCR: Sparse Cross-Line Attention for Historical Handwritten Text Recognition & Quality Estimation in Handwritten Text Recognition</td>
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
