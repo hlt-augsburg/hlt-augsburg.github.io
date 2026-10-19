@@ -28,14 +28,14 @@ permalink: /nlp-seminar-ws2627
                     </tr>
                     <tr>
                         <td>21.10.2026</td>
-                        <td></td>
-                        <td></td>
+                        <td>Hanna Schmück</td>
+                        <td>Paper Discussion: Eye Tracking for/in Computational Linguistics - Paper Details tbc</td>
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>28.10.2026</td>
-                        <td>Muhammad Daniel Bin Mohd Khir | </br>Alina Dichtl</td>
-                        <td>NSA-TrOCR: Sparse Cross-Line Attention for Historical Handwritten Text Recognition | </br>German Telicity: An Eye Tracking Study</td>
+                        <td>Muhammad Daniel Bin Mohd Khir</td>
+                        <td>NSA-TrOCR: Sparse Cross-Line Attention for Historical Handwritten Text Recognition </td>
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
@@ -52,8 +52,8 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>18.11.2026</td>
-                        <td></td>
-                        <td></td>
+                        <td>Alina Dichtl</td>
+                        <td>German Telicity: An Eye Tracking Study</td>
                         <td></td>
                     </tr>  
                     <tr>
