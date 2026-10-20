@@ -28,8 +28,8 @@ permalink: /nlp-seminar-ws2627
                     </tr>
                     <tr>
                         <td>21.10.2026</td>
-                        <td>Hanna Schmück</td>
-                        <td>Paper Discussion: Eye Tracking for/in Computational Linguistics - Paper Details tbc</td>
+                        <td>-</td>
+                        <td>no session</td>
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
