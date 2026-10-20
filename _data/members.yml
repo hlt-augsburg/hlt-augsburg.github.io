@@ -106,8 +106,8 @@
     email: 'firstname dot lastname at uni minus a dot de'
     position: 'PhD Student'
     pic: "Xaver"
-    website: ''
-    websiteurl: 'tba'
+    website: 'Personal Website'
+    websiteurl: 'https://xaverkrueckl.github.io/'
     affiliation: 'Chair of Computational Linguistics<br/> @ FAI, University of Augsburg'
     instituteurl: 'https://www.uni-augsburg.de/de/fakultaet/fai/informatik/prof/coling/'
 
