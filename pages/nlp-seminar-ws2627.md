@@ -45,6 +45,13 @@ permalink: /nlp-seminar-ws2627
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
+                        <td>04.11.2026 (<b>17:30</b>) </td>
+                        <td>Christian Fäth (GU Frankfurt / U Augsburg)</td>
+                        <td>Linguistic Applications of Linked Data Technology</td>
+                        <td>D 4056 and <a href="https://uni-augsburg.zoom-x.de/j/61525926055?pwd=VWnbEwtj7iPaM5py3JaebVm4wEuK26.1" target="main">Zoom</a><br/>(associated event, ILKA colloquium)</td>
+                    </tr>  
+
+                    <tr>
                         <td>11.11.2026</td>
                         <td>Lea Nora Avelina Tuncer Mata</td>
                         <td>Schema-Guided Extraction of Methodological Metadata from Microbiome Sequencing Studies: A Modular Comparison of Information Extraction Methods (Master Thesis Kickoff)</td>
