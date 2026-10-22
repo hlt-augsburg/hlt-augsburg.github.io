@@ -65,9 +65,9 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>25.11.2026</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Leonardo Bonilla Escobar</td>
+                        <td>When One Label Changes the Next: Understanding Sequential Effects in Generative Multi-Label Classification</td>
+                        <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>02.12.2026</td>
