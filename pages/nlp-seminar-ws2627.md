@@ -34,13 +34,8 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>28.10.2026</td>
-<<<<<<< HEAD
-                        <td>Fabio Mariani, Muhammad Daniel Bin Mohd Khir</td>
-                        <td>Zechzettel, Transformer-based Handwriting Recognition, Sparse Attention Models</td>
-=======
                         <td>Muhammad Daniel Bin Mohd Khir & Fabio Mariani</td>
                         <td>NSA-TrOCR: Sparse Cross-Line Attention for Historical Handwritten Text Recognition & Quality Estimation in Handwritten Text Recognition</td>
->>>>>>> c0d1727ee4c7330a728f0e8f64a8c6c60eeb36a0
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
