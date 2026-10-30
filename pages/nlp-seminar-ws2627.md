@@ -28,20 +28,25 @@ permalink: /nlp-seminar-ws2627
                     </tr>
                     <tr>
                         <td>21.10.2026</td>
-                        <td>Alina Dichtl</td>
-                        <td>German Telicity: An Eye Tracking Study</td>
+                        <td>-</td>
+                        <td>no session</td>
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>28.10.2026</td>
+<<<<<<< HEAD
                         <td>Fabio Mariani, Muhammad Daniel Bin Mohd Khir</td>
                         <td>Zechzettel, Transformer-based Handwriting Recognition, Sparse Attention Models</td>
+=======
+                        <td>Muhammad Daniel Bin Mohd Khir & Fabio Mariani</td>
+                        <td>NSA-TrOCR: Sparse Cross-Line Attention for Historical Handwritten Text Recognition & Quality Estimation in Handwritten Text Recognition</td>
+>>>>>>> c0d1727ee4c7330a728f0e8f64a8c6c60eeb36a0
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>04.11.2026</td>
                         <td>Michael Hedderich (LMU Munich)</td>
-                        <td>TBA</td>
+                        <td>Understanding at Scale: Analyzing LLM Behavior, Outputs, and Text Collections</td>
                         <td>N 2049 and Zoom</td>
                     </tr>
                     <tr>
@@ -51,6 +56,13 @@ permalink: /nlp-seminar-ws2627
                         <td>D4056</td>
                     </tr>  
                     <tr>
+                        <td>04.11.2026 (<b>17:30</b>) </td>
+                        <td>Christian Fäth (GU Frankfurt / U Augsburg)</td>
+                        <td>Linguistic Applications of Linked Data Technology</td>
+                        <td>D 4056 and <a href="https://uni-augsburg.zoom-x.de/j/61525926055?pwd=VWnbEwtj7iPaM5py3JaebVm4wEuK26.1" target="main">Zoom</a><br/>(associated event, ILKA colloquium)</td>
+                    </tr>  
+
+                    <tr>
                         <td>11.11.2026</td>
                         <td>Lea Nora Avelina Tuncer Mata</td>
                         <td>Schema-Guided Extraction of Methodological Metadata from Microbiome Sequencing Studies: A Modular Comparison of Information Extraction Methods (Master Thesis Kickoff)</td>
@@ -58,21 +70,21 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>18.11.2026</td>
-                        <td>Jehad Omar</td>
-                        <td>Relation Extraction in Hadith Snad</td>
-                        <td>N2049 and Zoom</td>
+                        <td>Alina Dichtl</td>
+                        <td>German Telicity: An Eye Tracking Study</td>
+                        <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>25.11.2026</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Leonardo Bonilla Escobar</td>
+                        <td>When One Label Changes the Next: Understanding Sequential Effects in Generative Multi-Label Classification</td>
+                        <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>02.12.2026</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Jehad Omar</td>
+                        <td>Relation Extraction in Hadith Snad</td>
+                        <td>N2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>09.12.2026</td>
