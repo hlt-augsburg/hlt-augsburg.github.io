@@ -34,8 +34,8 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>28.10.2026</td>
-                        <td>Muhammad Daniel Bin Mohd Khir</td>
-                        <td>TBA</td>
+                        <td>Fabio Mariani, Muhammad Daniel Bin Mohd Khir</td>
+                        <td>Zechzettel, Transformer-based Handwriting Recognition, Sparse Attention Models</td>
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
@@ -43,6 +43,12 @@ permalink: /nlp-seminar-ws2627
                         <td>Michael Hedderich (LMU Munich)</td>
                         <td>TBA</td>
                         <td>N 2049 and Zoom</td>
+                    </tr>
+                    <tr>
+                        <td>04.11.2026, 5.30pm D4056</td>
+                        <td>Christian Fäth</td>
+                        <td>ILKA talk: Linguistic Applications of Linked Data Technology</td>
+                        <td>D4056</td>
                     </tr>  
                     <tr>
                         <td>11.11.2026</td>
@@ -52,9 +58,9 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>18.11.2026</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Jehad Omar</td>
+                        <td>Relation Extraction in Hadith Snad</td>
+                        <td>N2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>25.11.2026</td>
@@ -100,13 +106,13 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>27.01.2027</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Janine Siewert</td>
+                        <td>Multi-lemmatisation of Low Saxon</td>
+                        <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>03.02.2027</td>
-                        <td></td>
+                        <td>Social event</td>
                         <td></td>
                         <td></td>
                     </tr>  
