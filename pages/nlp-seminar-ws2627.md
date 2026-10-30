@@ -78,7 +78,7 @@ permalink: /nlp-seminar-ws2627
                     <tr>
                         <td>02.12.2026</td>
                         <td>Jehad Omar</td>
-                        <td>Relation Extraction in Hadith Snad</td>
+                        <td>Relation Extraction for Graph Based Representation of Hadith Isnad</td>
                         <td>N2049 and Zoom</td>
                     </tr>  
                     <tr>
