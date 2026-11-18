@@ -7,7 +7,7 @@ permalink: /nlp-seminar-ws2627
             <h2>HLT Seminar</h2>
 
             <h3>Winter Semester 2026/27</h3>
-            Time: Wednesdays 10.00 - 11.30am<br/>
+            Time: Wednesdays 10.15 - 11.45 am<br/>
             Please e-mail Annemarie Friedrich (firstname dot lastname  @uni-a.de) to reserve a slot. <br/><br/>
             
             <table class="table table-striped">
@@ -59,8 +59,8 @@ permalink: /nlp-seminar-ws2627
 
                     <tr>
                         <td>11.11.2026</td>
-                        <td>Lea Nora Avelina Tuncer Mata</td>
-                        <td>Schema-Guided Extraction of Methodological Metadata from Microbiome Sequencing Studies: A Modular Comparison of Information Extraction Methods (Master Thesis Kickoff)</td>
+                        <td>Georg Hofmann (host)</td>
+                        <td>Interpretability of LLMs tutorial</td>
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
@@ -119,7 +119,7 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>03.02.2027</td>
-                        <td>Social event</td>
+                        <td>Social event: Breakfast</td>
                         <td></td>
                         <td></td>
                     </tr>  
