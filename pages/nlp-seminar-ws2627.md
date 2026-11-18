@@ -50,7 +50,6 @@ permalink: /nlp-seminar-ws2627
                         <td>Linguistic Applications of Linked Data Technology</td>
                         <td>D 4056 and <a href="https://uni-augsburg.zoom-x.de/j/61525926055?pwd=VWnbEwtj7iPaM5py3JaebVm4wEuK26.1" target="main">Zoom</a><br/>(associated event, ILKA colloquium)</td>
                     </tr>  
-
                     <tr>
                         <td>11.11.2026</td>
                         <td>Georg Hofmann (host)</td>
@@ -71,15 +70,15 @@ permalink: /nlp-seminar-ws2627
                     </tr>  
                     <tr>
                         <td>02.12.2026</td>
-                        <td>Jehad Omar</td>
+                        <td>Jehad Oumer</td>
                         <td>Relation Extraction for Graph Based Representation of Hadith Isnad</td>
                         <td>N2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>09.12.2026</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Johann Frei, Georg Hofmann</td>
+                        <td>Pitch, Dry-run</td>
+                        <td>N2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>16.12.2026</td>
@@ -88,16 +87,10 @@ permalink: /nlp-seminar-ws2627
                         <td>N 2049 and Zoom</td>
                     </tr>  
                     <tr>
-                        <td>23.12.2026</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>  
-                    <tr>
                         <td>13.01.2027</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Georg Hofmann, Hanna Schmück, Xaver Krückl</td>
+                        <td>conference recap, telicity stats, quotation detection</td>
+                        <td>N2049 and Zoom</td>
                     </tr>  
                     <tr>
                         <td>20.01.2027</td>
