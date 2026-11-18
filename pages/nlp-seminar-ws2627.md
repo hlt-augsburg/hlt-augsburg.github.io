@@ -45,12 +45,6 @@ permalink: /nlp-seminar-ws2627
                         <td>N 2049 and Zoom</td>
                     </tr>
                     <tr>
-                        <td>04.11.2026, 5.30pm D4056</td>
-                        <td>Christian Fäth</td>
-                        <td>ILKA talk: Linguistic Applications of Linked Data Technology</td>
-                        <td>D4056</td>
-                    </tr>  
-                    <tr>
                         <td>04.11.2026 (<b>17:30</b>) </td>
                         <td>Christian Fäth (GU Frankfurt / U Augsburg)</td>
                         <td>Linguistic Applications of Linked Data Technology</td>
